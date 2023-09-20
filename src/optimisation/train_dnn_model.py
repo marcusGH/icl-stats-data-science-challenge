@@ -1,7 +1,6 @@
 '''
 Functions in this file take models in the src/models/ folder and optimise their parameters using
-preprocessed training data from the data/derived/ folder.
-
+preprocessed training data from the data/derived/ folder (e.g. output from feature-design scripts)
 '''
 
 import torch
@@ -23,3 +22,9 @@ def train_example_model(num_epochs=20, lr=1e-3, save_name):
 
     # save the model state to file to avoid retraining
     torch.save(mod.state_dict(), os.path.join("model-checkpoints", save_name))
+
+
+
+if __name__ == '__main__':
+
+    train_example_model()
