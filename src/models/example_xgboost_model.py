@@ -2,7 +2,7 @@ from sklearn.model_selection import train_test_split
 import xgboost as xgb
 from sklearn.metrics import accuracy_score, classification_report
 
-class MultiLabelXGBoostClassifier:
+class XGBoostClassifier:
     def __init__(self, objective='binary:logistic', random_state=42):
         self.objective = objective
         self.random_state = random_state
