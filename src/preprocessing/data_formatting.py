@@ -2,9 +2,10 @@
 Take the data in raw/ and write to data/derived/ with suitable numeric data
 '''
 import pandas as pd
+import os
 
 def fill_missing_data(df):
-    df
+    return df
 
 def winsorize_outliers(df):
     return df
