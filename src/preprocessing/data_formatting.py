@@ -47,14 +47,7 @@ def fill_remaining_cols(df):
 def submit_dataframe(df, submit_path):
     df = df.reset_index()
     assert len(df.columns) == 29
-    df.to_csv(submit_path, index=True, quotechar='"', sep=' ')
-
-    # replace index columns with nothing
-    with open(submit_path) as f:
-        lines = f.readlines()
-    lines[0] = lines[0][1:]
-    with open(submit_path, "w") as f:
-        f.writelines(lines)
+    df.to_csv(submit_path, index=False, quotechar='"', sep=' ')
 
 if __name__ == '__main__':
     df = pd.read_csv(os.path.join("data", "raw", "my_data.csv"))
