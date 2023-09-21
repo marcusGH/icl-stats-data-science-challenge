@@ -1,0 +1,950 @@
+"Artist" "Track" "Album" "danceability" "energy" "loudness" "speechiness" "acousticness" "instrumentalness" "liveness" "tempo" "length" "time_signature" "A" "B" "C" "D" "AnB" "AnC" "AnD" "BnC" "BnD" "CnD" "AnBnC" "AnBnD" "AnCnD" "BnCnD" "AnBnCnD"
+"1" "Son Mieux" "Can’t Get Enough" "The Mustard Seed" 0.625 0.794 -6.168 0.0475 0.415 0.000282 0.338 98.02 194853 4 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0
+"2" "Taste" "Blister On The Moon" "Taste" 0.393 0.588 -15.232 0.04 0.0144 0.0102 0.238 136.535 204893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"3" "Allen Toussaint" "Last Train - Remastered Version" "Southern Nights" 0.581 0.781 -8.89 0.0443 0.119 0.0189 0.0786 87.757 181773 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"4" "STR4TA" "We Like It" "Aspects" 0.586 0.804 -9.57 0.0398 0.0293 0.644 0.0992 119.978 311213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"5" "Scary Pockets" "Doo Wop (That Thing) / Just A Friend / Ex-Factor Mashup" "Doo Wop (That Thing) / Just A Friend / Ex-Factor Mashup" 0.748 0.425 -11.208 0.121 0.601 8.13e-05 0.145 84.367 198000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"6" "Vance Joy" "You Can Call Me Al - Recorded at Spotify Studios NYC" "Spotify Singles" 0.796 0.566 -8.484 0.0574 0.165 0.0291 0.0802 130.776 188528 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"7" "Bot'Ox" "Blue Steel" "Babylon by Car" 0.73 0.803 -4.958 0.0496 0.0104 0.779 0.156 99.985 194533 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"8" "Kurt Vile" "One Trick Ponies" "Bottle It In" 0.68 0.842 -5.32 0.0258 0.148 0.00283 0.125 94.524 321160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"9" "The Stone Roses" "I Am the Resurrection - Remastered" "The Stone Roses" 0.357 0.866 -6.324 0.0411 0.00191 0.114 0.0815 129.071 492947 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"10" "The Avener" "Glory Box" "Happy Deep House" 0.68 0.83 -5.399 0.0491 0.607 0.0648 0.108 98.002 259160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"11" "The Strumbellas" "Sailor's Blues" "My Father and the Hunter" 0.558 0.821 -5.132 0.0536 0.0439 9.85e-05 0.145 126.688 147240 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"12" "Father John Misty" "When You're Smiling and Astride Me" "I Love You, Honeybear" 0.569 0.523 -6.415 0.0265 0.204 2.92e-05 0.121 110.929 274053 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"13" "Linkin Park" "Sorry for Now" "One More Light" 0.608 0.584 -6.652 0.0352 0.00995 0 0.203 94.956 203653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"14" "Run River North" "29" "Drinking From a Salt Pond" 0.439 0.903 -4.655 0.0692 0.000268 0 0.249 156.974 207120 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"15" "Sufjan Stevens" "Death with Dignity" "Carrie & Lowell" 0.514 0.16 -21.04 0.0383 0.986 0.0176 0.113 169.898 239508 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"16" "Henry Jamison" "Middle Name" "The Years" 0.367 0.114 -16.176 0.0339 0.836 0.0017 0.128 105 212840 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"17" "Ian Dury" "Dance Little Rude Boy" "Ten More Turnips from the Tip" 0.673 0.869 -5.154 0.0648 0.201 1.14e-05 0.148 106.192 274653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"18" "Octave Cat" "Metropolis" "Under Pressure (Deluxe)" 0.522 0.856 -5.185 0.121 0.432 0 0.103 167.734 295360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"19" "Some Sprouts" "Clowns" "Florescer" 0.596 0.452 -12.595 0.0275 0.151 0.611 0.108 134.99 228732 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"20" "Keaton Henson" "Sweetheart, What Have You Done To Us" "Birthdays" 0.41 0.171 -13.112 0.0339 0.91 0.00146 0.189 126.327 210107 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"21" "Circa Waves" "Lemonade" "Lemonade" 0.789 0.692 -4.733 0.0295 0.0326 0.00548 0.157 103.975 220107 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"22" "Closed on Sunday" "cantina band ~ star wars lofi" "cantina band ~ star wars lofi" 0.766 0.177 -15.398 0.449 0.952 0.684 0.087 169.962 68314 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"23" "Jonas Gewald" "Change" "Change" 0.772 0.694 -8.482 0.273 0.11 0 0.103 95.048 174316 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"24" "Tom Rosenthal" "All of Them Dreams" "Bolu" 0.452 0.183 -14.679 0.0365 0.929 0.223 0.128 130.591 152068 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"25" "The 1975" "Is There Somebody Who Can Watch You" "The 1975 (Deluxe)" 0.372 0.0305 -19.162 0.0497 0.923 0.000985 0.0851 112.909 175567 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"26" "Sunday Sun" "Does She Really Want to Know" "Live Out Loud" 0.536 0.774 -6.537 0.0395 0.0475 0 0.304 150.026 194560 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"27" "Nicholas Hooper" "Dumbledore's Army" "Harry Potter And The Order Of The Phoenix (Original Motion Picture Soundtrack)" 0.337 0.119 -21.437 0.0382 0.793 0.794 0.161 80.265 160253 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"28" "The Donkeys" "I Like The Way You Walk" "Born With Stripes" 0.636 0.642 -5.893 0.0391 0.144 0.000963 0.117 97.338 251240 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"29" "Biffy Clyro" "Many of Horror" "Only Revolutions" 0.498 0.647 -7.631 0.0358 0.00427 9.87e-06 0.146 163.87 258573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"30" "TOPS" "Way to be Loved" "Picture You Staring" 0.582 0.515 -9.283 0.0578 0.608 0.000641 0.0931 115.732 263397 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"31" "John Williams" "The Patronus Light" "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack" 0.259 0.0962 -33.463 0.0449 0.992 0.994 0.0969 66.128 72680 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"32" "A Day To Remember" "All Signs Point to Lauderdale" "What Separates Me From You" 0.42 0.983 -3.437 0.113 0.000263 0 0.114 149.958 197200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"33" "Winona Oak" "Nobody Loves Me (feat. ELIO)" "Nobody Loves Me (feat. ELIO)" 0.62 0.63 -8.749 0.0935 0.466 0.00496 0.152 169.969 150764 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"34" "Austin Basham" "New House" "You and Me for Now" 0.513 0.629 -5.921 0.0314 0.498 0.0027 0.0891 119.942 213229 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"35" "Broken Back" "Chagall - Alternate Version" "Chagall (Alternate Version)" 0.738 0.787 -7.081 0.0549 0.419 0.0028 0.347 109.956 192000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"36" "Dan Owen" "Fall Before You" "Fall Before You" 0.652 0.405 -10.752 0.0381 0.52 0 0.0974 111.986 167944 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"37" "flora cash" "Chronically Beautiful" "Chronically Beautiful" 0.793 0.439 -7.123 0.0317 0.106 0 0.266 100.11 164400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"38" "Indochine" "La vie est belle" "13" 0.74 0.565 -8.203 0.0289 0.325 0.000973 0.124 119.979 327733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"39" "Parquet Courts" "Tenderness" "Wide Awake!" 0.717 0.72 -4.269 0.0364 0.167 0.000216 0.0774 97.958 186107 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"40" "CeeLo Green" "Forget You" "The Lady Killer (The Platinum Edition)" 0.696 0.875 -3.682 0.0649 0.134 0 0.159 127.39 222733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"41" "UPSAHL" "Drugs (feat. Two Feet)" "Drugs (feat. Two Feet)" 0.824 0.549 -3.9 0.226 0.373 0 0.0779 153.812 155853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"42" "Charlie Cunningham" "Minimum" "Lines" 0.492 0.841 -9.181 0.0904 0.729 0.00027 0.101 177.869 194907 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"43" "Dry the River" "The Chambers & The Valves" "Shallow Bed (Deluxe Version)" 0.353 0.869 -4.576 0.0877 0.0591 0.224 0.146 126.537 190293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"44" "Meghan Trainor" "I'll Be Home" "Title (Expanded Edition)" 0.542 0.37 -7.779 0.0257 0.318 4.84e-06 0.108 84.796 219653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"45" "The Beatles" "Yesterday - Remastered 2009" "Help! (Remastered)" 0.332 0.179 -11.83 0.0326 0.879 0 0.0886 96.529 125666 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"46" "Joy Crookes" "When You Were Mine" "When You Were Mine" 0.369 0.829 -3.81 0.0789 0.0684 0.0991 0.343 102.175 203484 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"47" "Howard Shore" "Samwise the Brave" "The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" 0.0646 0.0883 -20.109 0.0447 0.805 0.899 0.117 65.689 226000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"48" "Flavia Cortez" "silbermond" "Sunflower Field" 0.112 0.0137 -28.804 0.0449 0.995 0.903 0.105 63.495 169579 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"49" "Mike Krol" "Like a Star" "I Hate Jazz" 0.404 0.797 -6.385 0.0584 0.00152 1.94e-05 0.357 169.057 93653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"50" "John Mayer" "New Light" "Sob Rock" 0.826 0.694 -7.862 0.0315 0.316 0.0285 0.074 123.932 217427 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"51" "One Self" "Be Your Own" "Children of Possibility" 0.824 0.558 -8.161 0.36 0.259 0.113 0.0478 96.806 284907 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"52" "Peter Sandberg" "Motion" "Motion" 0.137 0.00965 -34.079 0.0487 0.995 0.917 0.107 176.173 191121 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"53" "Pyrates!" "Chicken On a Raft" "Uncharted Lands" 0.779 0.6 -9.489 0.242 0.553 0 0.294 121.898 189559 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"54" "Biffy Clyro" "Black Chandelier" "Opposites (Deluxe)" 0.67 0.492 -6.618 0.029 0.00276 1.46e-06 0.073 111.374 244867 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"55" "Curtis Harding" "Need Your Love" "Face Your Fear" 0.713 0.8 -5.938 0.0349 0.0491 7.96e-05 0.0921 139.942 177200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"56" "Valaire" "I Wanna" "Whitney" 0.709 0.824 -8.824 0.0453 0.207 0.000307 0.0888 118.818 291293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"57" "Gasoline" "The Hardest" "Journey Into Abstract Hip Hop" 0.851 0.697 -7.343 0.199 0.148 0.0251 0.0927 94.888 242467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"58" "A Tribe Called Quest" "Check the Rhime" "The Low End Theory" 0.881 0.361 -14.728 0.237 0.0502 0.00458 0.246 96.43 216693 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"59" "Dominic Fike" "3 Nights" "Don't Forget About Me, Demos" 0.815 0.518 -6.594 0.0897 0.223 0 0.104 151.891 177667 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"60" "Green Day" "She" "International Superhits!" 0.37 0.937 -3.939 0.0356 7.37e-05 0.00817 0.0904 93.307 134293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"61" "TRESOR" "Aphrodite" "Nostalgia" 0.646 0.615 -12.868 0.0913 0.785 0.00234 0.269 95.988 234747 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"62" "Flamingosis" "Flight of the Flamingo" "Bright Moments" 0.729 0.525 -12.584 0.112 0.00187 0.498 0.0453 87.002 188966 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"63" "John Williams" "Hedwig's Theme" "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack" 0.156 0.162 -17.101 0.036 0.897 0.691 0.111 73.407 309093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"64" "Pond" "Paint Me Silver" "The Weather" 0.355 0.821 -6.134 0.049 0.00533 0.00304 0.216 177.427 224973 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"65" "James Morrison" "Broken Strings" "Songs For You, Truths For Me (International Exclusive Bundle)" 0.57 0.717 -4.914 0.029 0.00967 0 0.0833 111.91 250453 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"66" "Antônio Carlos Jobim" "Corcovado" "The Composer Of Desafinado, Plays" 0.623 0.191 -22.171 0.0331 0.315 0.696 0.0587 121.189 145960 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"67" "Robert Walter" "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)" "Spirit of '70" 0.697 0.596 -12.252 0.0412 0.635 0.894 0.0747 99.596 257293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"68" "Liedfett" "Gib mir dein Finger" "Laufenlassen" 0.717 0.763 -11.153 0.0495 0.0287 0 0.279 124.016 251830 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"69" "Imagine Dragons" "Smoke And Mirrors" "Smoke + Mirrors (Deluxe)" 0.601 0.636 -7.283 0.0283 0.0657 0.0218 0.446 109.987 260907 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"70" "MUNA" "It's Gonna Be Okay, Baby" "Saves The World" 0.731 0.607 -6.577 0.0321 0.0102 0.00413 0.19 107.988 344960 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"71" "Ambient Chronicity" "Beta Focus" "Brainwave Beta Attention Drones" 0.0741 0.015 -27.351 0.0476 0.993 0.987 0.109 80.028 210000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"72" "Jukebox The Ghost" "Don't Stop Me Now" "Jazz (2011 Remaster)" 0.559 0.868 -5.276 0.17 0.0475 0.000176 0.776 156.295 209413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"73" "Villagers" "Nothing Arrived" "Spotify Sessions" 0.579 0.415 -11.599 0.0397 0.929 0.0018 0.671 102.713 219093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"74" "Allman Brown" "Sons and Daughters" "1000 Years" 0.525 0.461 -9.489 0.0878 0.775 2.14e-06 0.362 147.997 216052 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"75" "Swedish House Mafia" "One" "Views" 0.792 0.625 -5.609 0.0536 0.00776 0.0018 0.329 103.967 173987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"76" "Rayland Baxter" "Willy's Song" "Feathers & Fishhooks" 0.498 0.512 -8.201 0.053 0.519 0 0.106 166.926 223547 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"77" "Les Rêveries" "Aviron" "Prospicio" 0.355 0.0173 -28.01 0.0453 0.988 0.934 0.0921 123.635 150375 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"78" "Colder" "Crazy Love" "Sincere (Deluxe)" 0.885 0.629 -8.05 0.059 0.206 2.97e-06 0.121 131.977 279587 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"79" "Sam Fender" "That Sound" "Dead Boys - EP" 0.548 0.719 -2.004 0.0298 5e-04 0 0.0779 94.084 205881 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"80" "Shakey Graves" "Cheers" "Cheers" 0.712 0.758 -5.962 0.0662 0.0619 0 0.166 112.05 149680 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"81" "Aquilo" "Thin" "x (Deluxe Edition)" 0.781 0.445 -6.061 0.0295 0.474 0 0.184 78.998 281560 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"82" "Michael Kiwanuka" "Cold Little Heart - Acoustic" "Cold Little Heart (Acoustic)" 0.507 0.327 -6.322 0.0264 0.833 0 0.232 107.942 269387 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"83" "eine kleine dorfMusik" "Polka mit Herz" "da capo" 0.446 0.203 -8.946 0.0311 0.918 0.827 0.0936 98.442 232520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"84" "Busted" "Year 3000" "Busted" 0.592 0.842 -6.681 0.0353 0.000219 0 0.0934 107.015 196200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"85" "TM Juke" "Marbles & Drains" "Marbles & Drains" 0.761 0.66 -6.576 0.0345 0.016 0.913 0.0507 93.95 289695 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"86" "Fabrizio Paterlini" "All My Joy, All My Pain" "Winter Stories" 0.366 0.037 -24.291 0.0385 0.992 0.914 0.118 63.134 172173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"87" "Barenaked Ladies" "Summertime" "All In Good Time" 0.509 0.744 -5.5 0.0326 0.0228 0 0.202 178.08 231826 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"88" "Old Sea Brigade" "Tidal Wave - Acoustic" "Cover My Own (Acoustic)" 0.646 0.288 -15.797 0.032 0.935 0.00122 0.16 106.923 155050 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"89" "Isaac Hayes" "Hung Up On My Baby" "Tough Guys" 0.678 0.695 -9.825 0.0284 0.181 0.635 0.0459 102.511 377639 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"90" "Lyrah" "Hold Me" "Divinely Uninspired To A Hellish Extent" 0.688 0.53 -5.507 0.0333 0.443 0 0.0995 106.958 205687 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"91" "Biffy Clyro" "Small Wishes" "Ellipsis (Deluxe)" 0.448 0.674 -5.289 0.0254 0.018 7.2e-05 0.0901 182.03 186186 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"92" "The Flying Stars Of Brooklyn NY" "My God Has A Telephone" "My God Has a Telephone" 0.584 0.404 -8.598 0.0456 0.863 0.00579 0.103 197.878 175493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"93" "The Flaming Lips" "Do You Realize??" "Yoshimi Battles the Pink Robots" 0.464 0.797 -5.244 0.0333 0.006 0.000304 0.392 129.964 213173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"94" "William Ryan Fritch" "Red Wolves" "Gopro: Eagle Hunters in a New World" 0.225 0.24 -15.216 0.0336 0.731 0.441 0.0995 75.804 148139 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"95" "Go West" "The King of Wishful Thinking" "Indian Summer" 0.669 0.869 -7.378 0.0525 0.0331 0 0.0991 107.887 241760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"96" "mehro" "lightning" "SKY ON FIRE" 0.602 0.528 -7.709 0.0304 0.849 4.1e-06 0.128 149.951 188336 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"97" "Courteeners" "Not Nineteen Forever" "St. Jude" 0.402 0.92 -2.944 0.0408 0.000174 0 0.0807 139.793 243973 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"98" "Summer Salt" "Sweet to Me" "Driving to Hawaii" 0.563 0.51 -6.751 0.0283 0.677 4.18e-06 0.305 97.463 204307 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"99" "Chinese Man" "Skank in the air" "Groove Sessions" 0.713 0.634 -8.163 0.198 0.0014 0.315 0.388 164.363 286200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"100" "Bon Iver" "Beth/Rest" "Bon Iver" 0.489 0.25 -12.766 0.0307 0.921 0.736 0.11 128.286 316800 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"101" "Mario Lanza" "Guardian Angels" "Angelic Reiki" 0.0686 0.147 -20.257 0.0382 0.945 0.927 0.074 73.122 310773 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"102" "Mumford & Sons" "Little Lion Man" "Sigh No More (Deluxe)" 0.519 0.494 -8.03 0.0275 0.0287 3.34e-05 0.0892 138.524 247000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"103" "Biig Piig" "Perdida" "Big Fan of the Sesh, Vol. 1" 0.767 0.0814 -13.437 0.307 0.837 0.0023 0.174 76.572 180950 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"104" "Gemp" "Rosado" "Rosado" 0.729 0.283 -14.602 0.0767 0.881 0.891 0.128 87.958 171836 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"105" "Running Touch" "Aubrey" "A Body Slow" 0.782 0.626 -6.999 0.0609 0.0338 0.0164 0.0845 120.011 253000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"106" "Steve Jablonsky" "Autobots" "Transformers: The Score" 0.392 0.492 -14.757 0.057 0.572 0.959 0.109 80.016 153027 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"107" "Frode" "Skog" "Skog" 0.245 0.0348 -27.705 0.0363 0.991 0.831 0.101 136.574 164294 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"108" "Harry Styles" "Adore You" "Fine Line" 0.676 0.771 -3.675 0.0483 0.0237 7e-06 0.102 99.048 207133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"109" "Sugar Jesus" "S.A.D." "S.A.D." 0.676 0.786 -5.073 0.035 0.00324 0.107 0.325 124.031 176129 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"110" "Junodream" "Travel Guide" "Travel Guide" 0.423 0.635 -7.582 0.0369 0.0688 0.68 0.308 160.005 266170 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"111" "Eminem" "Square Dance" "The Eminem Show" 0.763 0.675 -1.797 0.223 0.0307 0 0.0876 82 323720 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"112" "Devin Townsend" "Daddy" "Wiped Out!" 0.588 0.521 -9.461 0.0329 0.0678 0.149 0.123 85.012 260173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"113" "Tré Burt" "Sweet Misery" "Sweet Misery" 0.614 0.546 -6.858 0.0296 0.625 2.38e-06 0.0957 87.353 189329 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"114" "Bernadine Richter" "Sweet Cherie" "Sweet Cherie" 0.512 0.0371 -30.083 0.0387 0.988 0.926 0.11 111.192 187000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"115" "The Coup" "OYAHYTT (feat. LaKeith Stanfield)" "Sorry To Bother You: The Soundtrack" 0.746 0.614 -5.503 0.0406 0.000463 0.00619 0.155 121.98 253120 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"116" "Sylvan Esso" "Slack Jaw" "What Now" 0.526 0.102 -15.142 0.11 0.739 0 0.0888 139.085 185480 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"117" "Etta Marcus" "Hide & Seek" "Hide & Seek" 0.47 0.762 -8.292 0.0314 0.062 0.000886 0.392 159.006 221613 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"118" "Creedence Clearwater Revival" "Have You Ever Seen The Rain" "Pendulum (40th Anniversary Edition)" 0.741 0.697 -7.028 0.0277 0.0664 2.28e-05 0.133 116.109 160133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"119" "Marianas Trench" "Who Do You Love" "Astoria" 0.683 0.713 -7.511 0.0535 0.122 0 0.224 106.994 232100 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"120" "Guns N' Roses" "November Rain" "Use Your Illusion I" 0.294 0.641 -9.316 0.0291 0.0163 0.22 0.112 79.759 536067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"121" "Novo Amor" "Seneca" "Birthplace" 0.182 0.341 -9.966 0.0337 0.972 0.608 0.1 78.895 267747 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"122" "High Tone" "Mother Dubber" "Bass Température" 0.586 0.638 -8.9 0.0497 0.00404 0.843 0.0934 82.086 315587 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"123" "Jean-Marie Bussiere" "Nothingness Began Slowly" "Nothingness Began Slowly" 0.31 0.05 -30.665 0.04 0.993 0.896 0.105 82.587 119579 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"124" "Glass Animals" "Gooey" "ZABA" 0.487 0.369 -13.424 0.0406 0.736 3.75e-05 0.0925 183.114 289307 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"125" "Ariel Posen" "Spare Tire" "Spare Tire" 0.776 0.824 -6.12 0.0591 0.1 0.773 0.0829 112.079 168209 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"126" "Roo Panes" "Big Wide World" "Big Wide World" 0.585 0.487 -11.067 0.0349 0.585 0.488 0.085 140.943 254747 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"127" "Brendan Maynard + 2" "Prelude to a Kiss" "Giant Steps" 0.522 0.0945 -17.913 0.0365 0.947 0.573 0.158 94.084 264626 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"128" "The Tides" "Under The Wind" "Under The Wind" 0.253 0.203 -16.256 0.0484 0.834 0.859 0.109 59.99 240000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"129" "Scary Pockets" "Blinded by the Light" "A Grand Don't Come for Free" 0.599 0.701 -5.718 0.568 0.315 0 0.102 133.046 284600 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"130" "Two Feet" "Ella" "Ella" 0.605 0.817 -4.586 0.0312 0.001 0.691 0.0954 120.001 244677 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"131" "George Ezra" "Blind Man in Amsterdam" "Wanted on Voyage" 0.618 0.217 -11.066 0.0389 0.874 0 0.13 91.985 104853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"132" "Mike Perry" "Save Me Now" "Save Me Now" 0.556 0.684 -5.075 0.0459 0.0106 0 0.531 125.189 196080 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"133" "The Who" "Baba O'Riley" "Who's Next" 0.489 0.724 -8.367 0.0352 0.313 0.185 0.287 117.292 300400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"134" "Chet Faker" "Killing Jar" "Work" 0.655 0.687 -11.196 0.0573 0.492 0.479 0.112 176.023 436146 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"135" "The Arcs" "Chains of Love" "Yours, Dreamily," 0.656 0.602 -8.11 0.0301 0.111 7.28e-05 0.112 105.874 191213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"136" "mehro" "howling" "howling" 0.496 0.335 -11.137 0.0347 0.891 0.439 0.113 75.96 213720 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"137" "Paul Simon" "Me and Julio Down by the Schoolyard" "Paul Simon" 0.626 0.816 -10.593 0.131 0.237 1.8e-06 0.104 105.307 164813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"138" "Rayland Baxter" "Without Me" "The Eminem Show" 0.908 0.669 -2.827 0.0738 0.00286 0 0.237 112.238 290320 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"139" "Fulvio Neri" "Vacanza in bicicletta" "Vacanza in bicicletta" 0.218 0.00845 -31.658 0.0443 0.992 0.804 0.11 68.802 167288 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"140" "The Proclaimers" "Throw the 'R' Away" "This Is the Story" 0.416 0.564 -12.508 0.0393 0.706 0 0.11 168.186 165200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"141" "FISHER" "Palm Beach Banga" "Palm Beach Banga" 0.766 0.8 -6.37 0.117 0.00899 0.00214 0.165 126.002 233837 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"142" "The Good, the Bad & the Queen" "History Song" "The Good, The Bad and The Queen" 0.424 0.643 -10.477 0.0448 0.0642 0.153 0.355 160.099 185045 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"143" "Adele" "Hello" "Hello" 0.471 0.431 -6.129 0.0342 0.329 0 0.0854 157.98 295502 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"144" "Sons Of The East" "The Farmer" "Already Gone" 0.54 0.615 -8.694 0.0506 0.33 2e-06 0.0976 124.9 246058 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"145" "Edward Elgar" "Salut d'amour, Op. 12" "Jubilee" 0.159 0.068 -22.801 0.0469 0.993 0.882 0.0893 79.959 183583 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"146" "Rick Astley" "Never Gonna Give You Up" "Whenever You Need Somebody" 0.721 0.939 -11.823 0.0376 0.115 3.79e-05 0.108 113.309 213573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"147" "Wampire" "Wizard Staff" "Bazaar" 0.619 0.708 -5.773 0.0235 0.222 0.00146 0.133 83.164 232240 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"148" "Tom Misch" "It Runs Through Me" "Geography" 0.802 0.607 -11.028 0.289 0.205 0.000748 0.246 96.916 261881 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"149" "Johnny Cash" "Ring of Fire" "Ring Of Fire: The Best Of Johnny Cash" 0.659 0.585 -8.189 0.0288 0.623 0.000213 0.348 104.111 158426 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"150" "MEUTE" "You & Me" "Settle (Special Edition)" 0.593 0.392 -6.872 0.0257 0.382 0.000114 0.131 75.065 282813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"151" "Tom Rosenthal" "Lights Are On" "Z-Sides" 0.44 0.04 -16.887 0.0322 0.981 0.465 0.111 135.965 193749 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"152" "Linkin Park" "Shadow of the Day" "Minutes to Midnight" 0.534 0.393 -7.813 0.0292 0.00479 0.0107 0.107 110.007 290360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"153" "Lord Huron" "She Lit a Fire" "Lonesome Dreams" 0.484 0.74 -6.671 0.029 0.257 0.000105 0.0999 84.956 270667 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"154" "The Band CAMINO" "Crying Over You" "Crying Over You" 0.463 0.411 -8.25 0.0414 0.679 0 0.0453 147.3 178949 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"155" "Khruangbin" "Father Bird, Mother Bird (Sunbirds)" "Mordechai Remixes" 0.48 0.322 -10.922 0.0508 0.417 0.619 0.191 87.947 173484 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"156" "Aukai" "Soplo del Sueño" "Soplo del Sueño (Message to Bears Rework)" 0.483 0.468 -13.53 0.0474 0.748 0.829 0.121 75.058 219013 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"157" "Jeanne Added" "Look at Them" "Be Sensational" 0.53 0.284 -8.126 0.0351 0.392 8.11e-05 0.183 123.883 215667 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"158" "Rad Museum" "Dancing In The Rain" "Scene" 0.464 0.365 -9.582 0.0256 0.563 0 0.123 84.977 203000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"159" "Gloria Estefan" "Tres Gotas De Agua Bendita (feat. Celia Cruz)" "Alma Caribeña" 0.791 0.717 -6.055 0.0473 0.0889 0 0.0307 110.047 257160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"160" "Blossoms" "There's A Reason Why (I Never Returned Your Calls)" "Cool Like You (Deluxe)" 0.492 0.87 -5.325 0.0459 0.015 2.76e-06 0.22 123.974 222488 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"161" "Vistas" "Eighteen" "Eighteen" 0.426 0.664 -3.501 0.0284 3.68e-05 0.00033 0.18 157.992 201921 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"162" "Hollywood Undead" "Bullet" "American Tragedy (Deluxe Edition)" 0.681 0.833 -4.334 0.121 0.179 0 0.0677 184.975 197813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"163" "Lara Di Umbra" "Nomae" "Arctica" 0.369 0.0447 -27.445 0.04 0.993 0.889 0.0986 136.026 189094 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"164" "Winston Surfshirt" "Be About You" "Sponge Cake" 0.766 0.396 -10.756 0.0599 0.375 0.00129 0.0891 92.017 245687 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"165" "Creedence Clearwater Revival" "Who'll Stop The Rain" "Creedence Clearwater Revival - Best Of" 0.622 0.816 -7.05 0.0325 0.029 0.000308 0.0631 123.253 147466 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"166" "St. South" "Get Good - Infinitefreefall Remix" "Get Good (Infinitefreefall Remix)" 0.664 0.772 -5.285 0.0325 0.253 0.227 0.39 90.983 286154 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"167" "The Dandy Warhols" "Bohemian Like You" "Thirteen Tales From Urban Bohemia" 0.584 0.931 -6.158 0.0344 0.00315 0.772 0.133 131.275 211707 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"168" "Sufjan Stevens" "Jacksonville" "Illinois" 0.598 0.445 -8.945 0.0324 0.363 0.000389 0.645 140.073 324720 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"169" "Gerry Rafferty" "Baker Street" "City to City" 0.497 0.349 -14 0.0297 0.0929 0.028 0.259 113.762 365626 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"170" "Vanilla Ice" "Ice Ice Baby" "Vanilla Ice Is Back! - Hip Hop Classics" 0.979 0.792 -2.784 0.0388 0.0025 7.71e-06 0.102 116.012 254467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"171" "Johann Sebastian Bach" "Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Menuet" "Bach: Orchestral Suites Vol. 1 No. 1+2 Concerto For Oboe And Violin" 0.445 0.0879 -27.686 0.0434 0.93 0.881 0.145 120.544 160800 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"172" "Bakar" "Hell N Back" "Hell N Back" 0.584 0.684 -4.314 0.567 0.312 9.05e-05 0.112 210.164 213573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"173" "Clean Cut Kid" "Get Born, Grow up and Move Away" "Mother’s Milk" 0.549 0.483 -12.556 0.0406 0.702 0.0195 0.19 79.121 142453 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"174" "Dream" "Roadtrip" "Roadtrip" 0.459 0.581 -6.575 0.0713 0.316 0 0.124 176.195 133661 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"175" "Natural Child" "Sure Is Nice" "Okey Dokey" 0.63 0.669 -9.84 0.0291 0.236 0.198 0.102 135.117 321944 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"176" "Biffy Clyro" "In the Name of the Wee Man" "Ellipsis (Deluxe)" 0.556 0.801 -3.175 0.0444 0.0035 0 0.104 141.861 265426 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"177" "Day Wave" "Potions" "Crush" 0.646 0.705 -5.816 0.0294 0.495 4.77e-05 0.151 91.513 190061 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"178" "Gorillaz" "Feel Good Inc." "Demon Days" 0.818 0.705 -6.679 0.177 0.00836 0.00233 0.613 138.559 222640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"179" "Approachable Members of Your Local Community" "Millennium Queen" "Millennium Queen" 0.512 0.57 -6.849 0.0263 0.723 0.00192 0.1 98.015 217014 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"180" "Jenny Lange" "Wheels in Motion" "Spritual" 0.313 0.111 -32.044 0.0484 0.994 0.916 0.101 115.681 188625 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"181" "Jules Massenet" "Méditation de Thaïs" "Cello Moods" 0.111 0.0631 -25.589 0.0457 0.976 0.889 0.114 72.455 293000 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"182" "Woody and Jeremy" "Too Hot in L.A." "Strange Satisfaction" 0.764 0.711 -6.685 0.0333 0.0174 8.16e-06 0.154 106.556 256440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"183" "Sumsar" "Amaprinces Bend" "Amaprinces Bend" 0.136 0.0611 -28.291 0.0383 0.98 0.869 0.106 133.406 192409 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"184" "Sufjan Stevens" "The Only Thing" "Carrie & Lowell" 0.51 0.146 -19.585 0.0389 0.987 0.0688 0.107 159.034 284131 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"185" "Sam Fender" "Winter Song" "Winter Song" 0.314 0.309 -3.809 0.0312 0.855 4.71e-06 0.123 171.132 254437 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"186" "Alfachronic" "50 Hz Gamma" "Brainwave State Gamma" 0.153 0.0343 -23.779 0.0523 0.995 0 0.089 134.63 190480 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"187" "Paolo Nutini" "Candy" "Sunny Side Up" 0.612 0.601 -7.809 0.0421 0.373 0 0.156 125.164 298693 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"188" "Tinariwen" "Tiwàyyen" "Elwan" 0.454 0.623 -8.709 0.0575 0.147 0.741 0.115 126.453 224400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"189" "Lemaitre" "Cut to Black" "Relativity 3" 0.625 0.546 -8.432 0.0932 0.0493 0.0337 0.263 203.972 201827 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"190" "Nirvana" "Smells Like Teen Spirit" "Nevermind (Deluxe Edition)" 0.502 0.912 -4.556 0.0564 2.55e-05 0.000173 0.106 116.761 301920 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"191" "Richard Houghten" "Naked Tea" "Naked Tea" 0.616 0.194 -15.151 0.0316 0.837 0.824 0.131 80.012 225686 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"192" "Parcels" "Overnight" "Overnight" 0.815 0.819 -9.494 0.0521 0.364 0.0555 0.115 119.986 219604 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"193" "Nicholas Hooper" "School!" "Harry Potter and the Half-Blood Prince (Original Motion Picture Soundtrack)" 0.612 0.0428 -31.236 0.0481 0.762 0.0219 0.0985 140.46 65133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"194" "Warpaint" "The Stall" "Heads Up" 0.638 0.674 -6.881 0.04 0.198 0.681 0.103 114.931 295666 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"195" "Honig" "Golden Circle" "It's Not a Hummingbird, It's Your Father's Ghost" 0.482 0.507 -8.957 0.0327 0.675 1.97e-06 0.173 87.817 229173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"196" "Razz" "Everything I'll Ever Need" "Everything I'll Ever Need" 0.625 0.619 -9.705 0.0326 0.239 0.386 0.419 143.739 210929 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"197" "David Bowie" "Silly Boy Blue - Tibet Version" "Toy (Toy:Box)" 0.392 0.523 -8.308 0.0312 0.391 0.00716 0.128 180.004 312378 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"198" "Young the Giant" "Cough Syrup" "Young The Giant (Special Edition)" 0.534 0.721 -7.307 0.0417 0.0343 6.24e-06 0.115 128.978 249520 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"199" "Noah Kahan" "Hurt Somebody" "Busyhead" 0.638 0.51 -6.485 0.305 0.344 0 0.212 114.576 167106 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"200" "Magick Brother & Mystic Sister" "Utopia" "TREASURE EP.3: One To All" 0.668 0.686 -5.162 0.0335 0.00464 0 0.342 116.029 239067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"201" "Biba Dupont" "Serán" "Serán" 0.317 0.0501 -27.141 0.0363 0.995 0.9 0.0868 74.31 152696 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"202" "Lama House" "Heart of the River of the Sun" "Heart of the River of the Sun" 0.472 0.124 -22.252 0.041 0.967 0.917 0.112 109.567 151782 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"203" "Cassia" "Gotta Get Through Til Monday" "Gotta Get through Til Monday" 0.709 0.439 -9.073 0.0522 0.516 0 0.147 74.948 221820 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"204" "George Ezra" "Blame It on Me" "Wanted on Voyage (Expanded Edition)" 0.537 0.757 -3.374 0.0274 0.473 0 0.341 103.882 196400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"205" "Holly Humberstone" "Falling Asleep At The Wheel" "Falling Asleep At The Wheel" 0.662 0.626 -8.3 0.221 0.736 0 0.27 121.828 203248 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"206" "Alabama Shakes" "This Feeling" "Sound & Color (Deluxe Edition)" 0.625 0.334 -11.514 0.0361 0.844 0.00458 0.113 130.823 268853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"207" "Vulfpeck" "Baby I Don’t Know Oh Oh (feat. Charles Jones)" "Mr Finish Line" 0.638 0.477 -6.144 0.055 0.193 0.000153 0.358 112.737 208955 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"208" "The 1975" "UGH! - Live From The O2, London. 16.12.16" "DH00278 (Live from The O2, London. 16.12.16)" 0.618 0.963 -5.639 0.128 0.105 9.06e-06 0.806 100.043 184987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"209" "Billie Holiday" "Lover Man" "Lover Man" 0.365 0.136 -12.42 0.0436 0.921 0 0.103 64.212 197707 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"210" "Craig Sharmat" "Outside In" "Outside In" 0.705 0.697 -6.617 0.0272 0.233 0.287 0.0425 91.967 260320 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"211" "Bruce Springsteen" "Born to Run" "Born To Run" 0.253 0.868 -9.773 0.073 0.0511 0 0.214 146.647 269200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"212" "Zaz" "Je veux" "Zaz" 0.525 0.807 -6.366 0.0725 0.251 0 0.0504 155.397 215933 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"213" "Milo Greene" "1957" "Milo Greene" 0.388 0.595 -9.799 0.0325 0.663 5.58e-05 0.178 190.043 204213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"214" "Novo Amor" "Euphor" "Heiress" 0.296 0.284 -14.01 0.033 0.968 0.189 0.0961 114.786 243467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"215" "Low Roar" "Hummingbird" "Hummingbird" 0.677 0.832 -7.606 0.035 0.00379 0.9 0.176 129.029 177787 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"216" "The Avalanches" "Running Red Lights" "We Will Always Love You" 0.674 0.686 -6.08 0.0237 0.227 0 0.39 100.502 279480 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"217" "Wild Child" "Crazy Bird" "The Runaround" 0.779 0.523 -8.359 0.0361 0.247 0.000179 0.318 93.483 241267 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"218" "Sasha Alex Sloan" "Dancing With Your Ghost" "Dancing With Your Ghost" 0.629 0.328 -8.284 0.029 0.768 2.5e-05 0.103 74.953 197732 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"219" "Jamie xx" "Loud Places" "In Colour" 0.646 0.63 -10.748 0.0435 0.00462 0.27 0.122 109.018 283067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"220" "TRAMP STAMPS" "Sex With Me" "Sex With Me" 0.726 0.782 -5.592 0.0662 0.087 6.2e-06 0.0315 96.028 175547 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"221" "Louis Prima" "Just A Gigolo / I Ain't Got Nobody - Medley / Remastered 2002" "The Wildest! (Expanded Edition)" 0.519 0.638 -5.226 0.0942 0.683 0 0.0561 124.878 284893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"222" "FEATHERED SUN" "Mellifluous Soltitude" "Mellifluous Soltitude" 0.881 0.121 -11.521 0.187 0.891 0.933 0.109 146.14 160589 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"223" "The Fjords" "You Know" "Lethal Injection" 0.747 0.52 -10.523 0.0357 0.0977 0.0537 0.142 92.869 232773 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"224" "Luna Bauer" "Lady Ground" "Lady Ground" 0.35 0.0922 -26.764 0.0426 0.993 0.975 0.109 119.252 174353 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"225" "Sixpence None The Richer" "Us" "Sixpence None the Richer: Greatest Hits" 0.595 0.789 -7.574 0.0299 0.000231 1.75e-05 0.192 115.046 262626 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"226" "Royal & the Serpent" "overwhelmed" "Overwhelmed" 0.804 0.323 -11.127 0.305 0.308 0 0.15 87.019 159293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"227" "YOTA : Youth of the Apocalypse" "Drop the Bomb" "Drop the Bomb" 0.539 0.883 -4.318 0.122 0.0104 0 0.0771 160.022 213733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"228" "Jake Xerxes Fussell" "Breast of Glass" "Good and Green Again" 0.447 0.204 -12.486 0.0397 0.921 0.772 0.104 166.382 241640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"229" "Vance Joy" "Missing Piece - Acoustic" "Missing Piece (Acoustic)" 0.679 0.585 -4.65 0.0345 0.673 0 0.196 102.097 203633 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"230" "Miley Cyrus" "Wrecking Ball" "Bangerz (Deluxe Version)" 0.53 0.422 -6.262 0.0342 0.407 0 0.107 119.964 221360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"231" "Mamas Gun" "I Need a Win" "Golden Days" 0.611 0.647 -8.048 0.0356 0.238 0.0648 0.479 118.959 280280 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"232" "Daniel Docherty" "Broken Bird" "Broken Bird" 0.361 0.347 -15.219 0.036 0.233 0.000638 0.143 112.605 215743 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"233" "Tipling Rock" "Staring" "Staring" 0.608 0.687 -6.447 0.0372 0.0417 0 0.0966 156.95 206333 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"234" "The Chainsmokers" "Hope" "?" 0.592 0.457 -6.081 0.0603 0.661 0.000331 0.146 146.04 110886 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"235" "Jesse McCartney" "Beautiful Soul" "Beautiful Soul" 0.66 0.666 -4.342 0.0472 0.0759 0 0.0268 89.975 214227 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"236" "Paramore" "Careful" "Brand New Eyes" 0.417 0.945 -3.703 0.0805 0.00019 8.63e-05 0.2 164.997 230440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"237" "Henry And The Waiter" "Don't Wanna Die Alone" "Don't Wanna Die Alone" 0.685 0.703 -5.887 0.0422 0.0683 0.000132 0.16 171.974 160465 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"238" "Beautiful Chorus" "Pachamama" "Hymns of Spirit" 0.305 0.0536 -18.215 0.0501 0.994 0.0136 0.403 166.222 138298 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"239" "Beta Radio" "I Need My Prayers - Acoustic" "Made of Love" 0.424 0.432 -10.544 0.0261 0.857 0.00359 0.0987 80.753 187381 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"240" "Rosa Leoni" "Seine" "Moonray" 0.371 0.0304 -33.061 0.0412 0.99 0.834 0.108 95.006 198557 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"241" "Blur" "Parklife - 2012 Remaster" "Parklife (Special Edition)" 0.628 0.89 -6.094 0.0675 0.121 0 0.281 138.787 185093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"242" "Anson Seabra" "Keep Your Head Up Princess" "Feeling For My Life" 0.689 0.143 -17.374 0.264 0.97 0 0.109 85.398 198220 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"243" "James Blunt" "You’re Beautiful" "The Stars Beneath My Feet (2004 - 2021)" 0.678 0.521 -8.602 0.0266 0.618 1.15e-05 0.088 81.987 213840 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"244" "Jillian Wasser" "Verlorene Liebe" "Verlorene Liebe" 0.479 0.0298 -26.052 0.0332 0.918 0.901 0.101 100.048 182668 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"245" "Kina Grannis" "For Now" "In the Waiting" 0.394 0.249 -10.484 0.0396 0.927 0 0.115 79.549 198404 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"246" "John Coltrane" "A Love Supreme, Pt. II - Resolution" "A Love Supreme" 0.341 0.57 -11.71 0.0673 0.581 0 0.0966 89.754 437840 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"247" "Tall Heights" "Hear It Again" "Juniors" 0.52 0.693 -7.948 0.0341 0.0107 0.00116 0.0875 89.983 233533 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"248" "Blake Mills" "If I'm Unworthy" "Heigh Ho" 0.557 0.252 -10.704 0.0655 0.742 0.0197 0.107 75.408 283080 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"249" "L'aupaire" "Friends" "Nostalgia" 0.422 0.609 -6.361 0.0335 0.0114 4.76e-06 0.108 107.34 230011 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"250" "Little Grim" "Play Nice" "Play Nice" 0.744 0.41 -8.303 0.0621 0.366 0 0.0428 135.061 161333 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"251" "Broken Social Scene" "Pacific Theme" "You Forgot It In People" 0.723 0.703 -9.495 0.0318 0.0272 0.313 0.0979 129.725 309187 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"252" "The Goo Goo Dolls" "Use Me" "You Should Be Happy" 0.538 0.729 -4.982 0.0397 0.0763 0.0108 0.117 88.053 200386 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"253" "DANGERDOOM" "Space Hos" "THE MOUSE & THE MASK" 0.733 0.82 -7.288 0.24 0.239 0 0.335 97.733 209480 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"254" "Charles Bradley" "Heart of Gold" "No Time For Dreaming" 0.749 0.659 -7.617 0.0278 0.139 0.000447 0.0716 91.199 183440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"255" "Andreas Gabalier" "Hulapalu" "Wirtshaus Lieder" 0.705 0.676 -4.672 0.0467 0.505 0 0.628 124.96 180253 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"256" "Bob Marley & The Wailers" "Is This Love" "Kaya" 0.776 0.559 -8.375 0.103 0.11 0 0.0671 122.242 232200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"257" "Anaïs Mitchell" "Brooklyn Bridge" "Anaïs Mitchell" 0.272 0.201 -15.293 0.0399 0.82 0.203 0.209 165.508 258760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"258" "Sinkane" "Favorite Song" "Life & Livin' It" 0.601 0.713 -4.987 0.0251 0.000379 0.0618 0.348 100.013 293253 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"259" "The White Stripes" "Seven Nation Army" "Elephant" 0.745 0.466 -7.62 0.0864 0.00666 0.35 0.272 123.889 231920 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"260" "Sia" "1+1 - Banx & Ranx Remix" "Plan A - It's Hits" 0.77 0.725 -4.556 0.0468 0.0362 0 0.0699 110.048 196241 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"261" "flora cash" "OVER" "Home Alone 2" 0.838 0.623 -7.524 0.354 0.532 0 0.307 135.935 222155 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"262" "Shovels & Rope" "The Human Race" "Manticore" 0.678 0.237 -7.955 0.0297 0.705 0 0.0577 127.085 220965 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"263" "Adele" "Strangers By Nature" "30" 0.387 0.253 -8.901 0.0336 0.798 0.000159 0.0848 68.004 182163 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"264" "Mayday Parade" "Terrible Things - EP Version" "Valdosta EP" 0.285 0.371 -6.833 0.0295 0.698 0.00392 0.104 154.989 238076 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"265" "The Milk Carton Kids" "Hope of A Lifetime - Live" "Live From Lincoln Theatre" 0.527 0.381 -16.223 0.0418 0.905 0.0127 0.712 115.253 212440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"266" "Amy Winehouse" "Mr Magic (Through The Smoke)" "Frank" 0.858 0.518 -7.241 0.0416 0.0203 0.0232 0.0961 99.507 236504 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"267" "lazy oscar" "Third Eye" "Third Eye" 0.647 0.318 -11.652 0.0624 0.446 0.717 0.116 86.994 122424 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"268" "Moussa" "Cabrioli" "Cabrioli" 0.797 0.674 -3.93 0.134 0.293 1.82e-06 0.487 103.243 152631 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"269" "The Magic Mumble Jumble" "Don’t Forget" "Don’t Forget My Love" 0.639 0.873 -6.222 0.0408 0.0237 0.0143 0.119 121.031 199091 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"270" "Jonwayne" "Green Light" "Melodrama" 0.594 0.721 -7.812 0.0957 0.0209 8.55e-06 0.0879 128.942 234653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"271" "Edward Maya" "Stereo Love" "Stereo Love" 0.803 0.873 -2.976 0.0371 0.0323 0.0322 0.0836 127.085 155755 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"272" "Todd Terje" "Alfonso Muskedunder" "It's Album Time" 0.569 0.948 -7.536 0.0512 0.0328 0.925 0.0928 192.043 204933 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"273" "Thunderbitch" "Leather Jacket" "Thunderbitch" 0.355 0.768 -8.124 0.0542 0.00176 0.0065 0.0939 128.961 199987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"274" "Lorenz Büffel" "Johnny Däpp (Ich will Mallorca zurück)" "Johnny Däpp (Ich will Mallorca zurück)" 0.752 0.858 -2.901 0.125 0.0378 0 0.0554 132.005 223672 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"275" "Bloc Party" "The Love Within" "Hymns" 0.651 0.466 -9.365 0.032 0.00303 0.00886 0.121 130.004 277699 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"276" "Train" "Shake Up Christmas" "Save Me, San Francisco (Golden Gate Edition)" 0.458 0.831 -2.187 0.0654 0.0031 0 0.337 81.531 232213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"277" "Son Mieux" "Pretty Strangers" "Faire De Son Mieux" 0.55 0.702 -6.304 0.0275 0.0527 4.06e-05 0.243 92.019 169533 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"278" "jeremy messersmith" "Postmodern Girl" "Late Stage Capitalism" 0.64 0.36 -14.241 0.0366 0.742 0.324 0.105 147.798 219400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"279" "Colm R. McGuinness" "Jenny of Oldstones" "Keep Colm And Cover Up" 0.259 0.26 -12.156 0.0337 0.825 2.71e-06 0.104 129.014 191708 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"280" "Bob Seger" "Night Moves" "Night Moves" 0.705 0.743 -6.631 0.042 0.432 0.0133 0.103 118.552 324422 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"281" "J.J. Cale" "Don't Go To Strangers" "Naturally" 0.789 0.217 -20.727 0.0499 0.792 0.228 0.111 117.549 143800 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"282" "The Avalanches" "If I Was a Folkstar" "Wildflower" 0.671 0.909 -8.502 0.0506 0.562 0.847 0.0966 123.188 273253 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"283" "The Beatles" "Here Comes The Sun - Remastered 2009" "Abbey Road (Remastered)" 0.557 0.54 -10.484 0.0347 0.0339 0.00248 0.179 129.171 185733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"284" "Nothing But Thieves" "If I Get High" "Nothing But Thieves (Deluxe)" 0.441 0.57 -5.584 0.032 0.0104 0.0146 0.123 139.876 206560 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"285" "Robot Koch" "Glow - Foam and Sand Rework" "Glow (Foam and Sand Rework)" 0.144 0.25 -17.1 0.0373 0.879 0.89 0.0854 88.913 255483 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"286" "Less Than Jake" "Johnny Quest Thinks We're Sellouts" "Losing Streak" 0.42 0.921 -4.165 0.049 0.00105 0.000726 0.147 140.521 169107 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"287" "The Lonely Island" "Jizz In My Pants" "Incredibad" 0.641 0.87 -7.175 0.213 0.000468 1.4e-05 0.618 122.016 151346 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"288" "Neal Francis" "Changes, Pts. 1 & 2" "Changes" 0.581 0.77 -7.245 0.0515 0.0187 0.405 0.0725 103.426 390200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"289" "Isotopic Dreams" "Memory Training Gamma" "Binaural Brainwaves Gamma" 0.25 0.00664 -36.729 0.0464 0.99 0.883 0.111 144.419 198691 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"290" "Massive Attack" "Paradise Circus" "Heligoland" 0.81 0.591 -13.385 0.0638 0.414 0.799 0.072 136.028 297775 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"291" "Aukai" "Rekindle" "Game Trails" 0.553 0.323 -14.361 0.033 0.962 0.97 0.114 109.999 290893 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"292" "George Ezra" "Paradise" "Staying at Tamara's" 0.642 0.881 -3.537 0.0393 0.209 0 0.21 138.03 222045 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"293" "Vulfpeck" "Lonely Town" "Hill Climber" 0.908 0.644 -7.964 0.0429 0.0667 3.24e-06 0.123 100.401 174614 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"294" "Huey Lewis & The News" "The Power Of Love" "Greatest Hits: Huey Lewis And The News" 0.768 0.829 -5.109 0.0313 0.0964 2.92e-05 0.097 118.773 234333 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"295" "Jules Ahoi" "Robinson Crusoe" "Between Lines" 0.566 0.475 -10.614 0.0459 0.859 0 0.107 141.865 281567 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"296" "Luke Sital-Singh" "Hunger" "High As Hope" 0.729 0.675 -5.62 0.0415 0.53 0 0.0985 116.016 214667 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"297" "The Jon Spencer Blues Explosion" "Bellbottoms" "Orange" 0.311 0.882 -3.26 0.215 0.00895 0.205 0.253 162.189 317987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"298" "Toro y Moi" "Lilly" "What For?" 0.472 0.653 -6.484 0.0338 0.0435 0.075 0.299 139.887 267789 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"299" "WALK THE MOON" "Different Colors" "TALKING IS HARD" 0.48 0.826 -4.602 0.0397 0.000797 1.01e-06 0.125 96 222053 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"300" "Leyland Moore" "Traces" "Traces" 0.424 0.0577 -25.12 0.0428 0.991 0.902 0.13 114.351 193916 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"301" "Bobby Womack" "Fly Me To The Moon (In Other Words)" "Fly Me To The Moon" 0.589 0.523 -11.12 0.0404 0.397 0.0217 0.0967 114.252 128360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"302" "Dire Straits" "Walk Of Life" "Brothers In Arms - 20th Anniversary Edition" 0.437 0.965 -4.448 0.136 0.326 0.00028 0.144 172.428 248893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"303" "Palace" "Veins" "Veins" 0.429 0.273 -9.719 0.0287 0.349 0.0384 0.111 110.161 269975 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"304" "Gregory Alan Isakov" "Virginia May" "This Empty Northern Hemisphere" 0.542 0.318 -12.797 0.0369 0.826 4.07e-05 0.106 88.881 178347 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"305" "CRO" "Einmal um die Welt" "Raop" 0.726 0.9 -4.134 0.0401 0.133 0 0.145 160.128 142463 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"306" "Sub Urban" "PARAMOUR (feat. AURORA)" "PARAMOUR (feat. AURORA)" 0.716 0.465 -7.818 0.236 0.553 1.14e-06 0.771 165.836 168434 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"307" "The Kinks" "Sunny Afternoon - Mono Mix" "Face to Face (Deluxe Edition)" 0.595 0.462 -8.414 0.0259 0.102 0 0.0641 124.991 210525 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"308" "Olivier Mournier" "Pour tous les cœurs du monde" "Pour tous les cœurs du monde" 0.258 0.0356 -23.568 0.0408 0.995 0.904 0.109 68.714 129369 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"309" "Naturalis" "Solutions (Gamma Waves)" "The Deepest Dream (Binaural Beats)" 0.0731 0.00206 -35.548 0.0845 0.683 0.943 0.109 174.679 166400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"310" "Hudson Taylor" "Honest" "DEFinitely Pop Vol. 2" 0.81 0.655 -6.779 0.0698 0.127 8.16e-05 0.105 150.002 193322 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"311" "Elley Duhé" "MIDDLE OF THE NIGHT" "MIDDLE OF THE NIGHT" 0.41 0.611 -8.271 0.0467 0.0228 0 0.116 185.727 184448 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"312" "LÉON" "Wishful Thinking" "Circles" 0.526 0.467 -7.85 0.0243 0.563 1.59e-06 0.108 80.018 243203 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"313" "Sharon Van Etten" "Every Time the Sun Comes Up" "Are We There" 0.663 0.522 -8.741 0.0374 0.392 5.41e-06 0.197 99.759 262520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"314" "Fischerspooner" "Never Win" "Odyssey" 0.801 0.544 -5.858 0.0363 0.000738 0.000363 0.0596 112.009 239640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"315" "Linkin Park" "CASTLE OF GLASS" "LIVING THINGS" 0.615 0.911 -3.584 0.0278 0.0686 0.00188 0.0908 108 205400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"316" "Paramore" "Ain't It Fun" "Paramore" 0.61 0.893 -3.681 0.0921 0.154 4.41e-05 0.021 104.031 296520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"317" "SoMo" "Make Up Sex" "My Life II" 0.716 0.573 -5.277 0.0343 0.146 0 0.205 110.009 222853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"318" "David Sylvian" "The Only Daughter" "A Victim Of Stars 1982-2012" 0.282 0.0269 -22.8 0.0443 0.975 0.00216 0.0995 180.847 330266 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"319" "Freya Ridings" "Unconditional" "Freya Ridings" 0.403 0.214 -7.778 0.0366 0.921 0 0.314 119.456 197333 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"320" "Sufjan Stevens" "Mystery of Love" "Mystery of Love" 0.365 0.273 -16.526 0.038 0.94 0.431 0.109 132.285 248960 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"321" "Beyoncé" "MOOD 4 EVA (feat. Oumou Sangaré)" "The Lion King: The Gift" 0.608 0.709 -6.175 0.374 0.119 0 0.337 105.742 272069 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"322" "Alligatoah" "Stay in Touch" "Rotz & Wasser" 0.719 0.519 -6.525 0.0483 0.267 0 0.129 119.989 219880 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"323" "Crying Day Care Choir" "Spill My Words" "Falling Rising" 0.751 0.74 -5.477 0.0788 0.51 0.000956 0.237 139.072 160307 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"324" "Mick Jenkins" "Jazz" "The Water (S)" 0.636 0.61 -9.665 0.119 0.25 0.000121 0.113 125.227 260160 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"325" "The Suicide Machines" "New Girl" "Destruction By Definition" 0.466 0.96 -3.888 0.0543 0.000481 0 0.37 104.753 123000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"326" "The Lone Bellow" "Feather" "Purgatory" 0.536 0.574 -6.705 0.0254 0.75 0.00277 0.105 87.194 224947 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"327" "Birdy" "Skinny Love" "Birdy" 0.379 0.29 -8.485 0.051 0.952 0.00106 0.118 166.467 201080 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"328" "Andrew Applepie" "Bite Your Lips" "Two Suns" 0.582 0.817 -6.359 0.0465 0.000326 0.846 0.287 94.008 166144 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"329" "L'aupaire" "Flamenco" "Kind Of Blue (Legacy Edition)" 0.348 0.0219 -21.065 0.0427 0.899 0.112 0.0906 178.698 566133 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"330" "Moby" "Natural Blues" "Play" 0.679 0.65 -7.902 0.0331 0.0487 0.0502 0.269 107.992 253773 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"331" "AnnenMayKantereit" "Warte auf mich [Padaschdi]" "12" 0.663 0.59 -10.634 0.0408 0.145 0.0154 0.0876 121.967 166035 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"332" "Canyon City" "OK" "Ok Love You Bye" 0.766 0.547 -7.605 0.0561 0.389 1.13e-05 0.0919 103.898 154387 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"333" "Jacob Collier" "The Sun Is In Your Eyes - Voice Memo" "The Sun Is In Your Eyes (Voice Memo)" 0.531 0.192 -11.786 0.0393 0.864 0.00133 0.126 73.337 111875 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"334" "Thane Oliverson" "All The Way" "All The Way Up (feat. French Montana & Infared) - Single" 0.536 0.721 -6.44 0.386 0.062 0 0.824 117.139 191942 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"335" "Chris Rea" "Driving Home for Christmas" "The Works" 0.497 0.661 -9.047 0.0361 0.328 0.000317 0.211 180.225 240213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"336" "Khruangbin" "People Everywhere (Still Alive)" "The Universe Smiles Upon You" 0.551 0.648 -13.088 0.0627 0.043 0.655 0.41 109.209 159013 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"337" "Fujiya & Miyagi" "Sixteen Shades of Black & Blue" "Ventriloquizzing" 0.758 0.617 -6.504 0.0307 0.117 0.937 0.108 109.027 209944 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"338" "Frank Zappa" "Uncle Remus" "Apostrophe(')" 0.484 0.66 -11.163 0.0358 0.034 0.0812 0.0893 78.591 169600 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"339" "Voyou" "Seul sur ton tandem" "Les bruits de la ville" 0.682 0.68 -7.537 0.0451 0.159 4.19e-05 0.0826 144.001 231493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"340" "Delta Heavy" "White Flag" "White Flag" 0.414 0.889 -2.147 0.0507 0.00191 0.0191 0.112 174.042 271544 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"341" "Eliza and the Bear" "Make It On My Own" "Eliza And The Bear" 0.614 0.781 -5.718 0.027 0.0561 0.00189 0.106 158.11 203950 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"342" "Lucy Rose" "Shiver" "Like I Used To" 0.463 0.192 -13.229 0.0338 0.706 8.46e-05 0.105 122.631 233013 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"343" "Balmorhea" "Settler" "All Is Wild, All Is Silent" 0.274 0.425 -11.647 0.0356 0.172 0.501 0.0602 154.104 399267 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"344" "Shakira" "Hips Don't Lie (feat. Wyclef Jean)" "Oral Fixation, Vol. 2 (Expanded Edition)" 0.778 0.824 -5.892 0.0707 0.284 0 0.405 100.024 218093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"345" "The Fisherman’s Friends" "Haul Away Joe" "Port Isaac's Fisherman's Friends (Special Edition)" 0.692 0.4 -7.251 0.0345 0.906 0 0.14 62.485 133693 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"346" "Fondur" "The Meaning" "The Meaning" 0.448 0.0693 -17.996 0.0329 0.694 0.9 0.112 70.084 198172 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"347" "Michiel Schrey" "Fish in the Sea" "Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack]" 0.841 0.508 -6.366 0.0592 0.908 0 0.399 101.854 89253 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"348" "The Amazing Devil" "Drinking Song for the Socially Anxious" "Ruin" 0.654 0.265 -14.453 0.389 0.659 3.08e-06 0.257 146.048 336733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"349" "Yxngxr1" "PIGEONS" "Digikid 2" 0.814 0.54 -9.66 0.321 0.617 0 0.173 160.039 121458 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"350" "Arcade Fire" "Here Comes the Night Time" "Reflektor" 0.446 0.675 -7.802 0.0464 0.038 0.43 0.372 95.014 390490 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"351" "Fleet Foxes" "Can I Believe You" "Shore" 0.514 0.755 -8.455 0.03 0.354 0.0664 0.144 77.415 244187 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"352" "Noah Kahan" "Hollow" "I Was / I Am" 0.604 0.703 -7.124 0.0357 0.0591 1.95e-05 0.126 143.047 272272 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"353" "Billie Eilish" "Billie Bossa Nova" "Happier Than Ever" 0.895 0.389 -11.036 0.11 0.222 0.0346 0.105 110.023 196731 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"354" "Taylor Swift" "Love Story" "Fearless (International Version)" 0.62 0.639 -5.398 0.0285 0.0186 0.00011 0.206 119.055 233933 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"355" "Broken Back" "Young Souls" "Dear Misfortune, Mother of Joy - EP" 0.702 0.606 -10.285 0.0443 0.416 0 0.145 99.95 219373 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"356" "Yael Naim" "A Part of Us" "Mon Bébé (Original Motion Picture Soundtrack)" 0.626 0.327 -12.83 0.0346 0.84 1.11e-05 0.101 82.033 332613 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"357" "Methyl Ethel" "Twilight Driving" "Oh Inhuman Spectacle" 0.599 0.747 -6.502 0.0297 0.124 0.0126 0.365 124.035 239357 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"358" "Imagine Dragons" "Demons - TELYKast Remix" "Demons (TELYKast Remix)" 0.674 0.726 -6.472 0.0528 0.057 0 0.268 124.04 176129 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"359" "The Five Stairsteps" "O-o-h Child" "The First Family of Soul: The Best of The Five Stairsteps" 0.488 0.754 -7.95 0.0381 0.00154 2.42e-05 0.678 88.368 197160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"360" "Hearts Hearts" "Ikarus (I Feel a Change)" "Ikarus (I Feel a Change)" 0.631 0.86 -5.537 0.086 0.0941 9.1e-05 0.0954 170.048 189070 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"361" "The War On Drugs" "I Don't Live Here Anymore (feat. Lucius)" "I Don’t Live Here Anymore" 0.476 0.867 -3.982 0.037 0.00327 3.42e-06 0.0962 110.026 327547 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"362" "Maribou State" "Midas" "Portraits" 0.697 0.578 -5.213 0.095 0.393 0.379 0.106 114.995 218358 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"363" "Lucy Spraggan" "Lucky Stars" "Today Was a Good Day" 0.683 0.667 -4.877 0.0521 0.114 0 0.134 105.015 202347 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"364" "SYML" "Clean Eyes" "SYML" 0.466 0.844 -3.777 0.0495 0.00104 0.00257 0.158 174.17 184093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"365" "Kings Go Forth" "High on Your Love" "The Outsiders Are Back" 0.588 0.701 -3.208 0.0364 0.0142 4.83e-05 0.179 79.577 253653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"366" "George Ezra" "Anyone For You (Tiger Lily)" "Anyone For You (Tiger Lily)" 0.662 0.807 -3.285 0.0411 0.293 3.55e-06 0.189 103.031 187682 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"367" "SYML" "Sweet Home" "Sweet Home" 0.535 0.397 -11.158 0.0264 0.677 0.0033 0.129 77.971 248533 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"368" "Dylan" "You're Not Harry Styles" "No Romeo EP" 0.553 0.767 -4.557 0.0741 0.00681 2.95e-06 0.0903 165.059 176530 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"369" "Dario Marianelli" "Liz On Top Of The World - From \"Pride & Prejudice\" Soundtrack" "Pride and Prejudice - OST" 0.217 0.117 -21.398 0.0374 0.975 0.911 0.0573 46.755 82773 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"370" "Tom Rosenthal" "Tractor" "Tractor" 0.414 0.226 -13.614 0.0378 0.893 0.00125 0.15 80.588 206360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"371" "The Cat Empire" "Ready Now" "Stolen Diamonds" 0.621 0.816 -5.007 0.0409 0.0297 0.0949 0.324 85.023 194693 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"372" "Dermot Kennedy" "An Evening I Will Not Forget" "Without Fear" 0.624 0.549 -8.637 0.0655 0.224 5.03e-06 0.165 121.903 245924 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"373" "The 1975" "Happiness" "Happiness" 0.666 0.909 -5.029 0.039 0.0438 0.108 0.219 118.007 303903 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"374" "Duke Ellington" "Take The \"A\" Train" "Jazz Profiles" 0.5 0.284 -15.59 0.0404 0.272 0.0432 0.12 93.724 332640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"375" "M83" "My Tears Are Becoming a Sea" "Hurry up, We're Dreaming" 0.162 0.353 -11.286 0.0509 0.0993 0.274 0.575 110.76 151827 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"376" "Pink Floyd" "Comfortably Numb - 2011 Remastered Version" "The Wall (Remastered)" 0.479 0.309 -14.751 0.0299 0.153 0.22 0.134 127.155 379213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"377" "Thin Lizzy" "Dancing In The Moonlight (It's Caught Me In It's Spotlight)" "Bad Reputation (Expanded Edition)" 0.671 0.461 -13.874 0.13 0.00755 0 0.103 145.187 204653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"378" "GAYLE" "abcdefu (angrier)" "abcdefu (angrier)" 0.671 0.599 -6.18 0.0405 0.0658 0 0.101 121.849 159836 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"379" "Shouse" "Love Tonight - Edit" "Love Tonight" 0.727 0.681 -7.114 0.0265 0.00214 0.000307 0.0861 123.028 241970 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"380" "Temples" "Paraphernalia" "Paraphernalia" 0.497 0.865 -4.161 0.0468 0.00661 0.000313 0.343 113.992 263453 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"381" "Benny Sings" "Not Enough" "City Pop" 0.941 0.46 -10.775 0.0711 0.434 0.0555 0.0599 101.839 178680 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"382" "Modest Mouse" "Little Motel" "We Were Dead Before The Ship Even Sank" 0.616 0.462 -9.135 0.0271 0.279 0.00473 0.153 101.983 284187 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"383" "Bon Iver" "Beth/Rest - AIR Studios – 4AD/Jagjaguwar Session" "Beth/Rest (AIR Studios – 4AD/Jagjaguwar Session)" 0.514 0.136 -15.128 0.0568 0.981 0.0646 0.337 66.133 404435 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"384" "Thayne Jasperson" "Farmer Refuted" "Hamilton (Original Broadway Cast Recording)" 0.795 0.409 -8.334 0.372 0.684 0 0.0548 77.879 112742 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"385" "Juke Ross" "Morning Breeze" "GREY" 0.636 0.383 -9.381 0.0434 0.585 2.24e-06 0.122 72.871 194067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"386" "Sjowgren" "Better Off" "Who Needs Guitars Anyway?" 0.671 0.88 -6.149 0.0552 0.00181 0.691 0.285 136.953 214883 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"387" "George Ezra" "Angry Hill" "Did You Hear the Rain?" 0.521 0.117 -21.031 0.0306 0.724 0 0.953 90.054 250880 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"388" "Lola Young" "Together In Electric Dreams - From The John Lewis Christmas Advert 2021" "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)" 0.333 0.137 -12.938 0.0344 0.921 0.00103 0.131 124.673 201925 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"389" "Beach Bunny" "Entropy" "Entropy" 0.446 0.878 -5.826 0.0523 0.00371 0.00114 0.231 181.968 221000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"390" "Lana Del Rey" "Cinnamon Girl" "Norman Fucking Rockwell!" 0.294 0.337 -10.614 0.036 0.814 0.414 0.14 91.781 300683 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"391" "Desmond Dekker" "007 (Shanty Town)" "007 Shanty Town" 0.831 0.65 -4.508 0.0601 0.155 0.262 0.105 101.681 152867 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"392" "Sam Fender" "Seventeen Going Under - Edit" "Seventeen Going Under" 0.502 0.86 -4.637 0.0346 0.0199 0.000787 0.0902 161.99 237280 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"393" "Grace VanderWaal" "Burned" "Just The Beginning" 0.586 0.449 -7.729 0.0277 0.653 0 0.0681 95.04 191533 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"394" "Eli Smart" "Highschool Steady" "Boonie Town" 0.612 0.893 -5.546 0.0957 0.298 0.022 0.247 111.979 259797 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"395" "Supersci" "All Year Next Year" "Pinetrees On The Pavement" 0.683 0.862 -3.013 0.123 0.00874 0 0.679 95.964 245640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"396" "Bumcello" "Everyday" "AT.LONG.LAST.A$AP" 0.394 0.661 -8.684 0.192 0.00996 0 0.343 149.818 260987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"397" "The Basement Beats" "Far from Home" "The Journey" 0.697 0.69 -6.357 0.044 0.151 0 0.0582 96.039 195508 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"398" "Rise Against" "Help Is On The Way" "Endgame" 0.336 0.951 -3.587 0.0707 0.000123 0.00108 0.0333 108.043 237480 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"399" "Calming Beats" "Beta Waves 110Hz - 130Hz" "α&β" 0.163 0.024 -32.207 0.0428 0.925 0.793 0.107 130.992 160000 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"400" "El Profesor" "Bella Ciao - HUGEL Remix" "Bella Ciao (HUGEL Remix)" 0.842 0.488 -7.856 0.0844 0.218 0.00718 0.0877 126.019 164955 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"401" "Morrissey" "Suedehead - 2011 Remaster" "Viva Hate (2011 Remaster)" 0.529 0.989 -4.5 0.042 0.00126 0.00148 0.0567 142.29 235520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"402" "Boy & Bear" "Telescope" "Boy & Bear at Golden Retriever Studio" 0.608 0.392 -9.355 0.0262 0.699 0.0116 0.117 98.63 187187 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"403" "Richard Houghten" "Spiderweb" "Three Seeds" 0.708 0.649 -11.611 0.038 0.384 0.93 0.079 99.682 164375 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"404" "The Proclaimers" "Throw the 'R' Away - 2011 Remaster" "The Very Best Of" 0.434 0.748 -6.277 0.0366 0.646 0 0.111 167.896 165493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"405" "Gloria Gaynor" "I Will Survive - Extended Version" "Love Tracks (Deluxe Edition)" 0.777 0.736 -10.082 0.037 0.00755 0.0136 0.302 116.375 481813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"406" "James Bay" "If You Ever Want To Be In Love" "Chaos And The Calm" 0.684 0.837 -5.46 0.0307 0.0276 2.98e-05 0.0627 115.94 238973 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"407" "Hwa Sa" "TWIT" "TWIT" 0.679 0.813 -3.367 0.199 0.122 2.83e-06 0.263 136.067 190786 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"408" "Jacob Collier" "Moon River" "Djesse Vol. 2" 0.144 0.154 -12.596 0.0302 0.97 0.0284 0.103 85.391 496880 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"409" "Jóhann Jóhannsson" "A Model of the Universe" "The Theory of Everything (Original Motion Picture Soundtrack)" 0.336 0.044 -29.255 0.0456 0.982 0.96 0.221 90.243 172444 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"410" "DANGERDOOM" "Mince Meat" "THE MOUSE & THE MASK" 0.812 0.485 -8.709 0.291 0.19 0.000149 0.211 98.946 152933 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"411" "Erik Satie" "Uspud, Act III (Version for Piano): No. 44, Defile de saints et saintes" "Satie: Esoteric Works, Vol. 2 – Vexations, Uspud, Messe des pauvres" 0.648 0.00021 -38.82 0.664 0.983 0.912 0.0657 133.449 46507 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"412" "Lil Nas X" "Rodeo" "7 EP" 0.706 0.679 -5.614 0.0324 0.139 6.98e-05 0.465 140.081 158707 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"413" "Avi Kaplan" "All Is Well [Feat. Joy Williams]" "All Is Well Feat. Joy Williams" 0.38 0.23 -13.624 0.0327 0.852 0.0182 0.153 167.532 177720 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"414" "Julia Stone" "Sixty Summers" "Sixty Summers" 0.485 0.774 -4.869 0.156 0.336 0.0966 0.351 158.146 199395 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"415" "Vulfpeck" "3 on E" "The Joy of Music, The Job of Real Estate" 0.782 0.825 -8.605 0.0436 0.0428 0.378 0.1 98.273 177792 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"416" "Jonathan Beaujean" "Night Light" "Night Light" 0.519 0.0348 -25.859 0.0385 0.994 0.914 0.113 98.795 129123 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"417" "Frank Sinatra" "Santa Claus Is Coming To Town" "Christmas Songs by Sinatra" 0.646 0.204 -11.957 0.0565 0.826 0 0.312 140.281 154640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"418" "Mighty Oaks" "Like An Eagle" "Driftwood Seat - EP" 0.557 0.513 -10.477 0.0331 0.337 0.24 0.113 81.762 249627 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"419" "Quarteto Jobim-Morelenbaum" "Água de Beber" "Quarteto Jobim Morelenbaum" 0.781 0.477 -9.463 0.0818 0.776 0.0346 0.0954 150.147 156502 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"420" "Heather Nova" "Virus Of The Mind" "South" 0.599 0.74 -5.568 0.0261 0.0196 0 0.17 89.924 252760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"421" "Shaban" "Sie mögen sich" "Die Zähmung der Hydra" 0.854 0.774 -5.969 0.179 0.199 0 0.0738 113.978 412587 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"422" "Gwen Stefani" "The Sweet Escape" "The Sweet Escape" 0.756 0.77 -3.502 0.0343 0.191 0 0.178 119.961 246467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"423" "Don McLean" "American Pie" "American Pie" 0.531 0.481 -11.709 0.06 0.699 0 0.0842 138.45 516893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"424" "Julie Bergan" "Second Hand Love (feat. Ruben)" "Second Hand Love (feat. Ruben)" 0.609 0.314 -8.155 0.0295 0.864 0 0.123 89.729 204216 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"425" "Peter and Kerry" "One Thing" "Late Night Tales: Bonobo" 0.288 0.504 -5.181 0.0337 0.0867 0 0.271 131.051 210998 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"426" "Boss Chyc" "Kappin" "Kappin" 0.907 0.745 -7.728 0.306 0.001 0 0.0844 140.018 225933 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"427" "Sean Koch" "Lift You Up" "Lift You Up" 0.74 0.532 -11.07 0.0322 0.208 6.25e-05 0.106 124.937 230808 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"428" "Will Samson" "Tumble" "Ground Luminosity" 0.601 0.382 -12.46 0.0338 0.686 0.923 0.179 130.03 261997 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"429" "Yusuf / Cat Stevens" "Wild World" "Tea For The Tillerman (Remastered 2020)" 0.48 0.542 -8.51 0.0348 0.345 0.000609 0.113 152.853 200560 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"430" "New West" "Balenciaga" "Balenciaga" 0.361 0.742 -5.792 0.0358 0.437 0.000168 0.141 78.736 209720 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"431" "Baxter Dury" "Cocaine Man" "Floor Show" 0.757 0.396 -10.198 0.0344 0.0417 0.171 0.0795 127.371 233973 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"432" "Cafe Music BGM channel" "Study Jazz" "WORK JAZZ" 0.423 0.542 -9.697 0.04 0.863 0.249 0.15 174.992 179587 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"433" "Soul Square" "Take It Back" "x (Deluxe Edition)" 0.754 0.613 -6.342 0.229 0.318 0 0.335 113.196 208400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"434" "Brick + Mortar" "Move to the Ocean (Baauer Remix)" "Dropped Again" 0.529 0.891 -6.319 0.155 0.0157 0.193 0.0858 139.844 199016 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"435" "Platon Karataev" "Ocean" "dont smile at me" 0.511 0.363 -7.65 0.041 0.816 0.0317 0.084 144.892 200379 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"436" "bbno$" "mathematics" "mathematics" 0.758 0.843 -2.842 0.272 0.0608 1.5e-05 0.249 169.882 147000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"437" "Streetlight Manifesto" "Me and Julio Down by the School Yard" "99 Songs of Revolution Vol. 1" 0.572 0.927 -3.915 0.0763 0.00516 2.04e-05 0.121 129.391 147093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"438" "Becky Hill" "Have Yourself A Merry Little Christmas" "NATALE 2021" 0.438 0.178 -9.402 0.0414 0.957 1.1e-06 0.316 75.25 170964 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"439" "Danny Elfman" "Heroes" "\"Heroes\" (2017 Remaster)" 0.49 0.758 -6.491 0.0297 0.000671 0.484 0.092 112.114 371413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"440" "James" "Sit Down" "James: The Best Of" 0.564 0.895 -4.328 0.0329 0.167 4.64e-05 0.31 126.038 244306 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"441" "David Bowie" "Space Oddity - 2015 Remaster" "David Bowie (aka Space Oddity) [2015 Remaster]" 0.31 0.403 -13.664 0.0326 0.0726 9.27e-05 0.139 134.48 318027 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"442" "Grand National" "Drink to Moving On" "Kicking the National Habit" 0.626 0.81 -7.626 0.0358 0.00924 0.000416 0.336 114.851 199200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"443" "Kishi Bashi" "This Must Be the Place (Naive Melody) [by Talking Heads]" "7\" Singles" 0.729 0.267 -8.63 0.0311 0.794 0.000114 0.209 119.984 206896 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"444" "LaBelle" "Lady Marmalade" "Nightbirds" 0.631 0.563 -12.135 0.0552 0.398 0 0.0733 117.963 237120 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"445" "Andrew Applepie" "Almost Like This" "Andrew Applepie" 0.511 0.883 -5.475 0.121 0.382 0.927 0.198 172.106 188372 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"446" "Alexandre Desplat" "Lily's Theme" "Harry Potter and the Deathly Hallows, Pt. 2 (Original Motion Picture Soundtrack)" 0.179 0.048 -28.663 0.0469 0.889 0.974 0.0775 72.93 148813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"447" "Eli Rose" "Évidemment" "Évidemment" 0.698 0.518 -9.236 0.0636 0.218 3.33e-06 0.282 78.991 179574 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"448" "Looper" "Mondo '77" "The Geometrid" 0.823 0.691 -9.85 0.0354 0.196 0.495 0.138 119.974 295147 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"449" "Wax Tailor" "Magic Numbers" "Dusty Rainbow from the Dark" 0.866 0.758 -6.766 0.0525 0.0199 0.000402 0.0656 115.984 190147 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"450" "Luiz Bonfá" "Sambolero" "Solo in Rio 1959" 0.6 0.0244 -25.019 0.0377 0.965 0.633 0.107 104.647 173160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"451" "Delacey" "Cruel Intentions" "Black Coffee" 0.683 0.878 -3.497 0.201 0.0883 0 0.154 90.026 192571 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"452" "The Oh Hellos" "Constellations" "Notos" 0.56 0.505 -10.534 0.0337 0.258 0 0.117 85 227910 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"453" "flora cash" "The Bright Lights" "our generation" 0.665 0.4 -6.898 0.0299 0.578 2.75e-06 0.099 120.116 219215 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"454" "Amy Winehouse" "Love Is A Losing Game" "Back To Black (Deluxe Edition)" 0.484 0.293 -16.544 0.0311 0.337 0.00627 0.146 165.008 155413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"455" "Bon Jovi" "It's My Life" "Crush" 0.551 0.913 -4.063 0.0466 0.0263 1.35e-05 0.347 119.992 224493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"456" "The Head And The Heart" "Rivers and Roads" "The Head and the Heart" 0.5 0.197 -8.93 0.0354 0.717 3.22e-05 0.0755 131.243 284000 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"457" "Marlena Shaw" "California Soul" "The Spice Of Life" 0.513 0.826 -8.407 0.0574 0.555 3.48e-05 0.366 94.582 177227 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"458" "Moishe's Bagel" "Lev's Freilachs" "Don't Spare the Horses" 0.423 0.403 -9.366 0.0999 0.384 0.0369 0.0982 92.477 359160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"459" "Dan Owen" "Made to Love You" "Stay Awake with Me (acoustic)" 0.361 0.153 -10.296 0.0332 0.879 0 0.0918 80.794 207867 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"460" "Alan Silvestri" "Help Arrives - Extended" "Avengers: Infinity War (Original Motion Picture Soundtrack / Deluxe Edition)" 0.103 0.0754 -19.816 0.0392 0.346 0.455 0.11 89.516 339813 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"461" "Broken Back" "Got to Go" "Broken Back" 0.677 0.792 -5.642 0.0612 0.0271 6.54e-06 0.468 119.963 218280 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"462" "The Bavarian Oompah Band" "Oompah Polka" "Café Bierkeller - Steins, Fräuleins, Football & Frankfurters" 0.758 0.355 -13.365 0.0406 0.826 0.777 0.0785 101.666 168040 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"463" "De La Soul" "Rock Co.Kane Flow (feat. MF Doom)" "The Grind Date" 0.733 0.67 -3.532 0.132 0.119 0 0.442 86.983 185267 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"464" "Amadou & Mariam" "Senegal Fast Food" "Dimanche à Bamako" 0.635 0.911 -6.607 0.0347 0.81 2.66e-05 0.147 82.006 259107 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"465" "[spunge]" "No One Said It Was Easy" "No One Said It Was Easy" 0.704 0.835 -6.605 0.0284 0.00745 0.00563 0.119 110.977 200270 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"466" "Peach Pit" "Tommy's Party" "Being So Normal" 0.565 0.438 -8.722 0.0311 0.122 0.0469 0.108 133.949 361760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"467" "LÉON" "In a Stranger's Arms" "Apart" 0.497 0.433 -7.521 0.0278 0.377 0 0.099 97.856 201391 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"468" "Circles Around The Sun" "Money’s No Option" "Circles Around the Sun" 0.65 0.676 -5.302 0.0265 0.433 0.534 0.0647 112.994 319184 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"469" "Johnny Cash" "Hurt" "The Legend Of Johnny Cash" 0.514 0.292 -11.768 0.0291 0.827 0.00223 0.0926 90.459 218586 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"470" "I DONT KNOW HOW BUT THEY FOUND ME" "Choke" "Choke" 0.516 0.85 -3.909 0.0706 0.00139 0 0.296 120.324 195717 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"471" "Ole-Bjørn Talstad" "Where Are You Now" "Where Are You Now" 0.671 0.636 -8.117 0.103 0.515 0.000411 0.172 120.966 148197 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"472" "Jamestown Revival" "California (Cast Iron Soul) - Cabin Mix" "Utah" 0.54 0.59 -7.328 0.0284 0.301 0 0.0974 78.918 329880 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"473" "Ásgeir" "King And Cross" "In The Silence (Bonus Edition)" 0.705 0.473 -11.151 0.028 0.277 0.0037 0.107 100.005 212679 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"474" "Stay Home Sound Machine" "Bad B*tch Energy" "Vol. 1" 0.668 0.817 -5.093 0.126 0.0611 1.92e-06 0.288 100.001 104400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"475" "Orla Gartland" "Did It To Myself" "Did It to Myself" 0.751 0.429 -10.552 0.0609 0.0627 5.54e-05 0.0993 95.025 196940 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"476" "KYTES" "Inner Cinema" "Heads and Tales" 0.496 0.772 -6.033 0.034 0.00352 0.00204 0.0826 175.958 209293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"477" "Busted" "Dawson's Geek" "Busted" 0.382 0.859 -7.005 0.0514 0.000159 0 0.0941 174.972 147400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"478" "Dove Cameron" "Night Falls" "Descendants 3 (Original TV Movie Soundtrack)" 0.72 0.87 -5.155 0.142 0.0682 0 0.144 160.039 188218 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"479" "Two Door Cinema Club" "Changing of the Seasons" "Changing of the Seasons" 0.542 0.869 -4.429 0.135 5.21e-05 0.000222 0.115 130.021 222880 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"480" "Ray LaMontagne" "You Are The Best Thing" "Loving You" 0.578 0.727 -4.872 0.0332 0.0304 1.99e-05 0.172 170.593 231840 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"481" "Haakon Stange" "Finding Hope" "Finding Hope" 0.216 0.0819 -26.17 0.0444 0.994 0.954 0.0931 71.07 147000 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"482" "Provinz" "Liebe zu dritt" "Liebe zu dritt" 0.633 0.712 -6.181 0.0565 0.0913 0 0.783 126.094 206109 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"483" "Beyoncé" "Crazy In Love (feat. Jay-Z)" "Dangerously In Love" 0.646 0.77 -6.596 0.226 0.00249 0 0.0715 99.165 236133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"484" "Echo & the Bunnymen" "The Killing Moon" "Ocean Rain (Expanded; 2007 Remaster)" 0.568 0.829 -7.066 0.0303 0.218 0.00418 0.0976 124.201 348293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"485" "The Beatles" "Let It Be - 2021 Mix" "Let It Be (Super Deluxe)" 0.407 0.413 -8.129 0.0302 0.332 4.49e-06 0.107 144.338 243173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"486" "Beck" "Think I'm In Love" "The Information" 0.873 0.609 -6.336 0.0431 0.0104 0.582 0.0999 129.867 199427 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"487" "The Whitest Boy Alive" "Burning" "O My Heart" 0.516 0.755 -3.724 0.0383 0.0633 0.00103 0.107 140.099 262173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"488" "Birdtalker" "Better in the Morning" "Better in the Morning" 0.469 0.277 -13.869 0.0322 0.909 0.0175 0.109 130.222 164333 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"489" "L'aupaire" "Lisbon" "Lisbon" 0.756 0.722 -6.513 0.0296 0.0952 4.27e-05 0.121 128.014 251660 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"490" "Phoebe Bridgers" "Motion Sickness" "Stranger in the Alps" 0.651 0.546 -9.021 0.0357 0.774 0.0437 0.0842 107.021 229760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"491" "Brittany Howard" "Stay High" "Jaime" 0.598 0.853 -5.373 0.0545 0.132 0.00297 0.132 121.988 191396 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"492" "Busty and the Bass" "Out Of Love" "Eddie" 0.757 0.718 -6.009 0.184 0.0185 1.1e-05 0.376 107.068 290893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"493" "CASTLEBEAT" "Telephone" "The Fame Monster (UK Deluxe)" 0.825 0.832 -5.853 0.0403 0.00587 0.000789 0.114 122.021 220627 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"494" "The Cat Empire" "Still Young" "Steal the Light" 0.613 0.762 -4.679 0.0359 0.00727 0 0.188 149.225 258573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"495" "Dobie Gray" "Drift Away - Single Version" "Ultimate Collection: Dobie Gray" 0.521 0.443 -8.188 0.0395 0.308 0 0.475 76.228 237467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"496" "Father John Misty" "Château Lobby #4 (In C for Two Virgins)" "I Love You, Honeybear" 0.44 0.806 -4.917 0.041 0.205 0 0.17 188.141 170840 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"497" "Quincy Mumford" "Great Escape" "How Beautiful Life Can Be" 0.505 0.926 -3.654 0.0461 0.0894 0 0.318 132.017 228053 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"498" "Barns Courtney" "Golden Dandelions" "The Attractions Of Youth" 0.464 0.924 -6.022 0.0919 0.0218 0 0.105 139.442 204827 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"499" "Linkin Park" "New Divide - Instrumental" "New Divide (Int'l DMD Maxi)" 0.542 0.787 -4.656 0.0343 0.00012 0.835 0.116 118.039 269866 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"500" "Animal Collective" "Summertime Clothes" "Merriweather Post Pavilion" 0.491 0.871 -5.564 0.0969 0.00164 0 0.361 135.996 274213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"501" "Avi Kaplan" "Song For The Thankful" "Song For The Thankful" 0.504 0.235 -16.55 0.0271 0.828 0.00719 0.127 139.833 234799 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"502" "Izaak Opatz" "Not Yet" "Mariachi Static" 0.648 0.577 -10.153 0.0552 0.703 0.000332 0.11 80.368 238680 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"503" "Daniel Nunnelee" "Colorado (The First Time)" "Tell Me Where It Hurts" 0.437 0.346 -9.581 0.0339 0.504 0.00551 0.096 139.585 205667 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"504" "Giant Rooks" "Heat Up" "ROOKERY" 0.568 0.945 -3.243 0.0639 0.0512 6.29e-05 0.231 74.992 182920 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"505" "Pixeo" "focus - Alpha Sinus 82Hz - 90Hz" "Binaural Reflections" 0.0747 0.0498 -32.07 0.0469 0.623 0.567 0.112 78.871 160517 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"506" "Amy Winehouse" "Back To Black" "Back To Black (Deluxe Edition)" 0.403 0.422 -13.964 0.0373 0.134 2.05e-05 0.0861 122.728 241293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"507" "Rise Against" "Injection" "The Sufferer & The Witness" 0.42 0.995 -2.99 0.0829 0.000229 8.13e-05 0.102 105.605 199213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"508" "Runrig" "Protect and Survive" "50 Great Songs" 0.29 0.911 -5.378 0.0945 0.0157 7.25e-06 0.986 135.66 316640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"509" "Omar Rodríguez-López" "0" "The Blueprint 2 The Gift & The Curse" 0.759 0.678 -5.148 0.314 0.23 0 0.15 89.64 205560 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"510" "Assassin's Creed" "Fish in the Sea" "Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack]" 0.841 0.508 -6.366 0.0592 0.908 0 0.399 101.854 89253 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"511" "Ben Monteith" "I Wish" "Safe" 0.527 0.847 -4.711 0.0625 0.064 0 0.168 158.057 236744 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"512" "Theo Katzman" "The Death of Us" "Modern Johnny Sings: Songs in the Age of Vibe" 0.962 0.551 -7.579 0.0551 0.171 0.169 0.0515 125.484 226987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"513" "Syd Matters" "Obstacles" "Someday We Will Foresee Obstacles" 0.395 0.415 -8.461 0.0338 0.242 0.912 0.134 126.875 208707 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"514" "The Copper Children" "Drugs & Liquor" "Copper Child" 0.723 0.669 -6.078 0.0324 0.665 1.67e-05 0.152 120.11 158392 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"515" "Scary Pockets" "Just a Friend" "Mario" 0.538 0.677 -6.099 0.187 0.00541 0 0.236 132.346 214200 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"516" "Chinese Man" "To the Beat" "The Groove Sessions, Vol. 5" 0.806 0.888 -6.559 0.0672 0.122 0.2 0.0745 103.017 171680 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"517" "Miles Davis" "Blue in Green (feat. John Coltrane & Bill Evans)" "Kind Of Blue (Legacy Edition)" 0.421 0.0162 -25.358 0.0388 0.808 0.0024 0.0978 110.479 337733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"518" "London Symphony Orchestra" "O Holy Night" "Merry Christmas" 0.368 0.505 -7.208 0.0285 0.367 6.63e-06 0.154 173.977 266933 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"519" "Angus & Julia Stone" "A Heartbreak" "Angus & Julia Stone (Deluxe)" 0.776 0.588 -7.916 0.0372 0.0679 0.188 0.107 122.039 256173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"520" "The Rapture" "It Takes Time to Be a Man" "In the Grace of Your Love" 0.523 0.58 -6.95 0.0343 0.172 5.46e-06 0.128 138.443 341947 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"521" "Ages and Ages" "Needle and Thread" "Me You They We" 0.541 0.605 -6.325 0.0313 0.358 4.09e-06 0.193 163.407 182716 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"522" "Beauvois" "Mars" "weird!" 0.293 0.811 -5.139 0.0433 0.00383 0 0.353 167.949 181838 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"523" "Brenton Wood" "Oogum Boogum Song" "Oogum Boogum" 0.836 0.696 -6.37 0.0401 0.8 0 0.0949 112.692 186567 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"524" "CASTLEBEAT" "Dreamgaze" "CASTLEBEAT" 0.366 0.593 -7.048 0.03 5.89e-05 0.074 0.152 149.915 165409 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"525" "Mariah Carey" "Silent Night" "Lullaby" 0.411 0.13 -14.257 0.0308 0.982 0.000197 0.119 168.044 169787 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"526" "Waltzburg" "Neon" "Luv Is Rage 2" 0.859 0.563 -6.635 0.112 0.0541 0 0.0685 119.934 258789 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"527" "Foy Vance" "She Burns" "The Wild Swan" 0.73 0.403 -10.146 0.0483 0.718 0.00242 0.0985 124.901 229227 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"528" "Ben Platt" "I wanna love you but I don’t" "Reverie" 0.691 0.588 -6.012 0.0353 0.0465 7.52e-05 0.227 114.945 204713 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"529" "Bukahara" "Friend" "Nostalgia" 0.422 0.609 -6.361 0.0335 0.0114 4.76e-06 0.108 107.34 230011 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"530" "David Sylvian" "Heartbeat (Tainai Kaiki II) Returning To The Womb - Remix" "A Victim Of Stars 1982-2012" 0.591 0.626 -9.648 0.0626 0.215 0.136 0.31 169.86 316360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"531" "Tom Bright" "If I Met Your Shadow" "If I Met Your Shadow" 0.682 0.188 -15.917 0.414 0.834 1.35e-06 0.106 81.138 134507 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"532" "Digable Planets" "Where I'm From" "Reachin' (A New Refutation Of Time And Space)" 0.876 0.42 -18.246 0.279 0.188 0.00186 0.0668 98.304 275342 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"533" "The Magnetic Fields" "I Thought You Were My Boyfriend" "i" 0.636 0.702 -5.745 0.0289 0.546 3.29e-05 0.0694 125.031 264213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"534" "Haux" "Heavy" "The State of Things" 0.546 0.838 -2.406 0.0407 0.00606 2.7e-05 0.104 132.969 205227 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"535" "John Legend" "You Deserve It All" "You Deserve It All" 0.524 0.739 -6.681 0.0386 0.215 0 0.0636 83.095 198627 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"536" "KISS" "I Was Made For Lovin' You" "Dynasty" 0.768 0.852 -6.215 0.038 0.214 7.36e-05 0.0723 128.373 271240 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"537" "Sam Smith" "I'm Not The Only One" "In The Lonely Hour (Japanese Edition)" 0.688 0.474 -5.894 0.0344 0.49 4.48e-06 0.0846 81.976 239316 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"538" "Petit Lilou" "Nuageux" "Nuageux" 0.239 0.0264 -31.312 0.0405 0.994 0.796 0.0938 144.363 175914 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"539" "Lewis Watson" "little light" "Midnight" 0.297 0.545 -10.457 0.05 0.122 2.41e-06 0.113 59.332 269102 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"540" "Freedom Fry" "Before the World Was Born" "Broken Down on Planet 909" 0.457 0.532 -8.15 0.0295 0.601 0.0313 0.286 143.998 248021 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"541" "The Proclaimers" "Make My Heart Fly" "The Best of the Proclaimers" 0.344 0.381 -11.387 0.0299 0.72 0 0.146 136.196 148173 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"542" "Jim James" "The World's Smiling Now" "Eternally Even" 0.59 0.474 -8.161 0.033 0.679 0.0269 0.0934 80.454 293413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"543" "Black Pumas" "Black Moon Rising" "Black Pumas" 0.538 0.605 -7.608 0.0368 0.128 0.00445 0.151 158.181 221947 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"544" "The Script" "We Cry" "The Script" 0.556 0.88 -4.604 0.0645 0.0479 0 0.351 91.893 223920 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"545" "George Harrison" "My Sweet Lord - Remastered 2014" "All Things Must Pass (Remastered 2014)" 0.537 0.701 -8.913 0.0335 0.0972 0 0.0832 120.919 281227 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"546" "Janne Schra" "Everything I Do Ooh Ooh" "Ponzo" 0.776 0.667 -7.775 0.0805 0.608 0 0.131 104.977 131493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"547" "St. South" "Slacks" "Slacks" 0.737 0.528 -9.583 0.0981 0.767 4.92e-06 0.0782 126.006 206635 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"548" "Nataly Dawn" "Never Going Back Again" "Never Going Back Again" 0.74 0.612 -9.746 0.152 0.803 0.396 0.109 79.671 159000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"549" "Coldplay" "My Universe - Galantis Remix" "My Universe (Galantis Remix)" 0.596 0.915 -4.711 0.0682 0.0949 1.7e-06 0.12 120.024 224908 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"550" "Harrison Storm" "You & I" "Original Sounds" 0.646 0.864 -3.727 0.0718 0.087 0 0.0923 87.419 264000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"551" "Mel Brown" "Chicken Fat" "Chicken Fat" 0.583 0.868 -9.226 0.0419 0.466 0.919 0.453 102.036 254160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"552" "Shawn Lee's Ping Pong Orchestra" "Hey Ya" "Speakerboxxx/The Love Below" 0.727 0.974 -2.261 0.0664 0.103 0.000532 0.174 79.526 235213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"553" "Born Ruffians" "Needle" "Birthmarks" 0.542 0.665 -5.213 0.0692 0.189 0 0.0934 183.939 213871 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"554" "The Goo Goo Dolls" "Sympathy" "Gutterflower" 0.546 0.631 -5.757 0.0283 0.25 0 0.123 129.556 178146 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"555" "citi" "Vibrant Parade Walks Riverside" "Unwashed Saliboat" 0.737 0.278 -8.692 0.097 0.263 0.867 0.0897 75.002 128000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"556" "Balthazar" "Wrong Vibration" "Fever" 0.694 0.797 -7.344 0.0409 0.0303 0.466 0.206 130.074 165987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"557" "Hammock" "Like a Valley With No Echo" "Oblivion Hymns" 0.0626 0.376 -11.288 0.0412 0.25 0.897 0.0962 66.375 490186 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"558" "Vance Joy" "Clarity" "Clarity" 0.552 0.873 -6.065 0.0464 0.00137 0.000273 0.0966 125.059 227240 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"559" "The Human League" "Don't You Want Me" "Dare!" 0.731 0.738 -8.125 0.0377 0.184 0 0.214 117.656 236920 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"560" "The Killers" "Glamorous Indie Rock & Roll" "Hot Fuss" 0.328 0.858 -3.316 0.0559 0.0702 0 0.169 154.494 254653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"561" "Ben Howard" "Keep Your Head Up" "Every Kingdom" 0.508 0.596 -9.034 0.0334 0.439 9.84e-06 0.111 79.359 264547 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"562" "Vangelis" "In the magic of Cosmos" "Juno to Jupiter" 0.227 0.318 -16.554 0.0325 0.396 0.895 0.13 98.924 127107 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"563" "Zeta Loxi" "Alpha Flow State 131Hz - 143Hz" "Binaural Dimensions" 0.12 0.0235 -27.758 0.0359 0.823 0.659 0.111 70.611 173102 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"564" "Piers Faccini" "The Beggar & the Thief" "My Wilderness" 0.667 0.288 -11.173 0.0329 0.532 0.0737 0.102 79.999 286480 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"565" "Erik Satie" "Messe des pauvres (Arr. A. Simonetto for Piano): Ia. Kyrie" "Satie: Esoteric Works, Vol. 2 – Vexations, Uspud, Messe des pauvres" 0.712 0.00293 -23.769 0.89 0.984 0.688 0.0806 73.293 74813 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"566" "Hiatus Kaiyote" "Laputa (Taylor McFerrin Remix feat. Anderson .Paak)" "Recalibrations, Vol. 1" 0.453 0.655 -7.709 0.302 0.271 0 0.118 106.222 244240 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"567" "Pim Stones" "We Have It All" "We Have It All" 0.556 0.493 -7.151 0.032 0.921 6.09e-05 0.113 107.984 263333 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"568" "Biffy Clyro" "Mountains" "Only Revolutions" 0.507 0.852 -6.841 0.0453 0.000676 1.28e-05 0.0599 158 201146 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"569" "T Bird and the Breaks" "I Get's My Boogie On" "Never Get Out of This Funk Alive" 0.683 0.733 -5.671 0.039 0.0721 8.53e-06 0.819 96.633 250409 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"570" "Charity Children" "Elizabeth" "The Stone Roses" 0.5 0.13 -23.436 0.0408 0.801 0.196 0.241 107.716 53120 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"571" "Lo-Fang" "When We're Fire - Cello Version" "Every Night" 0.55 0.135 -17.155 0.0453 0.935 0.0297 0.112 155.765 245865 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"572" "Ed Sheeran" "Bibia Be Ye Ye" "÷ (Deluxe)" 0.738 0.677 -5.121 0.0824 0.52 0 0.133 127.067 176746 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"573" "Janko Nilovic" "Drug Song" "Volume 1 (3 albums: Super America, Soul Impressions, Pop Impressions)" 0.465 0.713 -7.493 0.0603 0.00796 0.71 0.112 88.344 191959 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"574" "Binaural Movements" "Fantasia - Alpha Sinus 95Hz - 103Hz" "Access to the Subconcious" 0.19 0.0778 -29.869 0.0442 0.893 0.516 0.11 70.109 161584 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"575" "Clean Bandit" "Rather Be (feat. Jess Glynne)" "Rather Be (feat. Jess Glynne)" 0.799 0.586 -6.735 0.0377 0.162 2.03e-06 0.193 120.97 227833 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"576" "Cory Wong" "Light As Anything" "The Optimist" 0.76 0.631 -5.661 0.0447 0.0658 0.000281 0.0819 93.992 291133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"577" "Floating States" "Ocean Waves Alpha 273Hz - 281Hz" "Violin Waves" 0.165 0.0638 -30.452 0.0496 0.828 0.845 0.113 79.516 126812 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"578" "Martin Luther" "Vom Himmel Hoch da Komm Ich Her" "Let's have a break with Bach" 0.207 0.114 -19.281 0.0395 0.681 2.88e-05 0.135 119.737 174507 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"579" "Morra" "One Love - Radio Version" "One Love (Radio Version)" 0.848 0.632 -5.291 0.0544 0.213 0.0733 0.272 127.978 193620 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"580" "Keith Jarrett" "So Tender" "Standards, Vol. 2" 0.373 0.302 -20.358 0.0376 0.818 0.835 0.171 86.925 435267 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"581" "PLAZA" "Demons" "Night Visions" 0.505 0.71 -3.015 0.0321 0.19 0.00025 0.269 89.938 177507 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"582" "Post Malone" "One Right Now (with The Weeknd)" "Twelve Carat Toothache" 0.682 0.764 -5.411 0.0477 0.0363 0 0.103 97.023 192721 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"583" "Calming Beats" "Alpha Pulse - 92Hz - 100Hz" "Binaural Concentration" 0.221 0.0519 -24.808 0.0467 0.828 0.632 0.11 63.88 156154 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"584" "Bendigo Fletcher" "No Smoke" "No Smoke" 0.616 0.46 -9.968 0.0338 0.677 5.46e-05 0.11 113.828 173307 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"585" "Joyce Cooling" "Revolving Door" "Revolving Door" 0.754 0.595 -8.141 0.0357 0.271 0.883 0.0674 105.012 347013 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"586" "Soulive" "One In Seven" "Doin' Something" 0.716 0.731 -5.602 0.045 0.0084 0.782 0.119 120.592 316493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"587" "Ren" "Humble" "Humble" 0.8 0.594 -5.671 0.237 0.553 0 0.101 147.999 175946 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"588" "Novo Amor" "Ontario" "Heiress" 0.409 0.223 -13.886 0.0296 0.947 0.0123 0.0635 89.877 192867 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"589" "Cattle & Cane" "I Wish I Knew Jesus - Like You Do" "I Wish I Knew Jesus (Like You Do)" 0.685 0.735 -6.11 0.0302 0.00781 7.51e-06 0.0462 97.98 175413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"590" "Dino Brandāo" "Hoffnigslos Hoffnigslos" "Ich liebe Dich" 0.315 0.254 -11.269 0.0328 0.279 0.00017 0.122 119.072 348173 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"591" "The Avett Brothers" "I Wish I Was" "True Sadness" 0.491 0.299 -8.86 0.0317 0.806 0 0.188 109.329 316440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"592" "Anna Luppi" "All we got (Quando avremo)" "All we got (Quando avremo)" 0.513 0.745 -5.504 0.0716 0.35 0 0.109 187.996 167875 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"593" "AnnenMayKantereit" "Pocahontas" "Alles nix konkretes" 0.596 0.591 -9.254 0.0363 0.34 0.00517 0.097 118.818 185231 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"594" "Papas Fritas" "Way You Walk" "Pop Has Freed Us" 0.878 0.445 -7.321 0.0592 0.123 0.00269 0.114 120.133 228000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"595" "Aron Edwards" "Danderlion" "Danderlion" 0.126 0.224 -26.95 0.0299 0.982 0.893 0.106 178.22 136000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"596" "Beta Radio" "I Need My Prayers - Guitar Solo" "I Need My Prayers (Guitar Solo)" 0.415 0.302 -13.454 0.0359 0.892 0.9 0.1 81.383 187248 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"597" "The Cat Empire" "Coming to Meet You" "Coming to Meet You" 0.674 0.797 -10.297 0.0495 0.0509 0.00257 0.151 117.012 211587 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"598" "Lord Huron" "Ends of the Earth" "Lonesome Dreams" 0.555 0.584 -8.667 0.0301 0.274 0.0228 0.254 120.965 284147 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"599" "The Fisherman’s Friends" "Leave Her Jonny Leave Her" "Home From The Sea" 0.581 0.0409 -20.494 0.0467 0.982 0 0.165 124.311 160853 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"600" "Gerry Cinnamon" "Mayhem" "The Bonny" 0.64 0.568 -6.816 0.0445 0.75 9.96e-06 0.106 129.07 227229 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"601" "SYML" "I Wanted to Leave" "You Knew It Was Me" 0.486 0.062 -19.538 0.0379 0.989 0.9 0.111 170.442 203912 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"602" "St. Paul & The Broken Bones" "Grass Is Greener" "Half The City" 0.34 0.491 -7 0.0322 0.428 0.0397 0.226 176.309 254333 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"603" "Alannah Myles" "Black Velvet" "Alannah Myles" 0.754 0.366 -10.07 0.0312 0.273 9.04e-05 0.106 91.147 287440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"604" "Catfish and the Bottlemen" "Kathleen" "The Balcony" 0.489 0.892 -4.757 0.0786 0.000369 0.00293 0.411 137.93 160886 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"605" "Sleeping At Last" "Saturn" "Atlas: I" 0.263 0.237 -13.738 0.0344 0.638 0.305 0.109 73.024 289792 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"606" "Somebody's Child" "We Could Start a War" "20-Something" 0.495 0.72 -3.298 0.0337 0.09 0 0.108 90.008 213066 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"607" "Louise Attaque" "Toute cette histoire - Live à La Route du Rock, Saint-Malo / 1997" "Louise Attaque (25 ans)" 0.278 0.938 -5.167 0.418 0.228 0 0.983 136.932 374003 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"608" "Jil Is Lucky" "The Wanderer" "Jil is lucky (Kenzo Flower Release + Radio edit)" 0.43 0.467 -5.863 0.0255 0.425 4.82e-06 0.092 96.365 220413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"609" "The Robbie Boyd Band" "Orion's Belt" "Autumn's Flown" 0.623 0.728 -6.754 0.0381 0.268 0 0.0891 107.827 227160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"610" "Saint Motel" "Daydream / Wetdream / Nightmare" "Voyeur" 0.292 0.74 -6.444 0.0758 0.117 0.00458 0.0938 91.973 307093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"611" "David Bowie" "Ziggy Stardust - 2012 Remaster" "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)" 0.515 0.554 -11.616 0.0784 0.0478 0 0.219 80.146 193880 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"612" "Phillipa Soo" "Helpless" "Hamilton (Original Broadway Cast Recording)" 0.688 0.491 -7.494 0.269 0.334 0 0.0914 79.009 249771 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"613" "Bronze Radio Return" "Further On" "Up, On & Over" 0.633 0.811 -6.661 0.0327 0.112 0.015 0.12 130.157 146781 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"614" "Diplomats of Solid Sound" "Come In My Kitchen" "S/t" 0.571 0.83 -5.487 0.0896 0.0122 0 0.211 100.8 204653 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"615" "First Aid Kit" "Emmylou" "The Lion's Roar" 0.494 0.616 -5.828 0.0297 0.47 0.000135 0.1 88.394 258000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"616" "The Preatures" "Is This How You Feel?" "Blue Planet Eyes" 0.536 0.807 -7.696 0.129 0.00014 0.128 0.069 184.894 214093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"617" "L'aupaire" "Goldrush" "Reframing (Deluxe)" 0.683 0.859 -6.585 0.0413 0.0207 0.00221 0.375 138.95 179568 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"618" "Lyre Le Temps" "The Mission" "The Mission" 0.708 0.437 -6.982 0.0807 0.188 0 0.0976 94.053 191479 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"619" "Lily & Madeleine" "Come to Me" "Press Play" 0.825 0.493 -6.479 0.0749 0.0196 0 0.755 97.025 276787 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"620" "Juice Newton" "Queen Of Hearts" "Juice" 0.658 0.862 -9.963 0.0535 0.211 5.44e-05 0.2 169.532 205827 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"621" "Joshua Radin" "A World to Explore" "A World to Explore" 0.614 0.55 -13.849 0.0373 0.421 0.462 0.0951 93.954 180000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"622" "The Shadows" "Apache" "Another String of Hot Hits (And More!)" 0.595 0.451 -12.987 0.0288 0.0106 0.929 0.0962 133.673 174187 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"623" "SYML" "YES AND KNOW" "DIM" 0.597 0.507 -6.268 0.0405 0.829 0.131 0.0838 136.017 262860 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"624" "Damon Albarn" "Particles - Edit" "Particles" 0.234 0.385 -10.729 0.0359 0.711 0.00271 0.158 117.9 182422 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"625" "Aisha Badru" "Prisoners & Guards" "Prisoners & Guards" 0.45 0.34 -15.888 0.0359 0.899 0.00357 0.293 123.287 290680 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"626" "Yo La Tengo" "Periodically Double or Triple" "Popular Songs" 0.883 0.517 -9.474 0.0627 0.106 0.13 0.0809 119.614 233067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"627" "René Aubry" "The Desert, Pt. 2" "Chaos" 0.612 0.358 -11.944 0.0343 0.798 0.889 0.114 109.968 125387 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"628" "Scratch Bandits Crew" "Algorithmic" "Stereo 7" 0.841 0.751 -6.474 0.255 0.112 0 0.0212 95.992 206501 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"629" "Taylor Swift" "willow" "evermore" 0.392 0.574 -9.195 0.17 0.833 0.00179 0.145 81.112 214707 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"630" "Louise Attaque" "Amours" "Louise Attaque" 0.438 0.874 -5.866 0.18 0.0284 0 0.0255 149.389 117600 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"631" "Scarecrow" "Left Behind" "Iowa" 0.229 0.994 -3.431 0.22 7.03e-05 0.00548 0.318 156.623 241467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"632" "Benny Sings" "Rolled Up" "Music" 0.792 0.461 -11.706 0.243 0.729 0.326 0.118 174.402 183481 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"633" "The Longest Johns" "Randy Dandy-O" "Written in Salt" 0.631 0.669 -4.171 0.127 0.934 0 0.329 110.094 126493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"634" "Stu Larsen" "By the River - Acoustic" "By the River (Acoustic)" 0.484 0.375 -11.71 0.0305 0.568 0.000129 0.12 146.366 268195 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"635" "Lily Allen" "Somewhere Only We Know" "Somewhere Only We Know" 0.314 0.286 -10.191 0.035 0.935 0.0258 0.0999 172.021 208154 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"636" "L.A. WITCH" "Baby in Blue Jeans" "L.A. WITCH" 0.25 0.64 -7.341 0.0302 0.00901 0.768 0.152 152.407 269160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"637" "Metronomy" "Things will be fine" "Small World" 0.716 0.713 -9.392 0.0304 0.438 0.265 0.101 144.964 210267 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"638" "Crowded House" "Weather With You" "Woodface" 0.643 0.614 -12.878 0.0279 0.25 7.17e-06 0.214 93.982 224467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"639" "Michael Kiwanuka" "Rolling" "KIWANUKA" 0.677 0.777 -4.95 0.0374 0.0293 0.591 0.683 124.993 171747 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"640" "DJ Shadow" "This Time (I'm Gonna Try It My Way)" "The Outsider" 0.592 0.912 -5.976 0.0433 0.00242 0.103 0.0775 96.491 185147 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"641" "Sundance Darling" "Binaural Gamma Sinus 120 Hz - 170 Hz" "Binaural Gamma Sinus 120 Hz - 170 Hz" 0.195 0.024 -30.323 0.0545 0.969 0.635 0.111 76.847 153066 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"642" "Lil Nas X" "Old Town Road - Remix" "7 EP" 0.878 0.619 -5.56 0.102 0.0533 0 0.113 136.041 157066 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"643" "Peach Pit" "Up Granville" "From 2 to 3" 0.646 0.611 -6.516 0.0272 0.171 0 0.0634 109.051 230748 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"644" "Ed Sheeran" "Dive" "÷ (Deluxe)" 0.761 0.386 -6.158 0.0399 0.355 0 0.0953 134.943 238440 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"645" "Snow Patrol" "Open Your Eyes" "Eyes Open" 0.522 0.8 -6.289 0.0307 0.000817 0.00143 0.206 130.953 338426 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"646" "Young Rising Sons" "Carousel" "Cry Baby (Deluxe Edition)" 0.739 0.661 -5.35 0.0764 0.0958 1.88e-05 0.0848 76.999 230160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"647" "Marta Lien" "Dominoes" "Dominoes" 0.309 0.189 -27.596 0.0329 0.97 0.937 0.105 146.114 147981 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"648" "Alexi Murdoch" "Orange Sky" "Four Songs" 0.685 0.15 -20.543 0.039 0.797 0.0461 0.1 124.956 379520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"649" "Malky" "Diamonds" "Unapologetic (Deluxe)" 0.564 0.71 -4.92 0.0461 0.00125 0 0.109 91.972 225147 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"650" "Rainbow Kitten Surprise" "Seven" "Seven + Mary" 0.641 0.531 -7.243 0.157 0.0492 0 0.118 135.564 225413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"651" "Wild Rivers" "Thinking 'Bout Love" "Songs to Break Up To" 0.732 0.328 -8.13 0.0327 0.487 0 0.0677 141.789 199391 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"652" "Chubby Checker" "The Twist" "Dancin' Party: The Chubby Checker Collection (1960-1966)" 0.571 0.618 -5.682 0.0371 0.18 2.69e-06 0.178 156.892 155040 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"653" "Oscar Peterson" "Blue And Sentimental" "Plays Count Basie" 0.551 0.114 -24.78 0.0451 0.977 0.874 0.141 70.141 146093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"654" "Ariana Grande" "34+35" "Positions" 0.83 0.585 -6.476 0.094 0.237 0 0.248 109.978 173711 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"655" "Talking To Turtles" "Passenger Seat" "Split" 0.731 0.569 -8.58 0.0429 0.164 0.00577 0.0984 109.953 220000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"656" "Norman Greenbaum" "Spirit In The Sky" "Spirit In The Sky" 0.609 0.617 -7.091 0.0307 0.0994 0.00404 0.118 128.903 242893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"657" "Harrison Storm" "Change It All" "Change It All" 0.446 0.303 -12.504 0.0439 0.631 0.00516 0.118 120.636 247413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"658" "Gloria Estefan" "Te Tengo A Ti" "Alma Caribeña" 0.609 0.508 -6.541 0.0319 0.277 0 0.287 117.982 236573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"659" "Caroline Smith & The Good Night Sleeps" "Strong Shoulders" "Little Wind" 0.703 0.669 -6.698 0.03 0.148 0.0183 0.346 101 128453 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"660" "Cocoon" "Chupee" "My Friends All Died in a Plane Crash" 0.751 0.48 -6.124 0.0534 0.808 1.86e-05 0.0634 120.027 176853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"661" "BoyWithUke" "Two Moons" "Fever Dreams" 0.841 0.502 -9.068 0.211 0.52 0.000187 0.103 109.965 224747 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"662" "Barns Courtney" "Hellfire" "The Attractions Of Youth" 0.529 0.847 -5.513 0.0482 0.244 0 0.205 93.977 168853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"663" "Sibuna" "lost" "channel ORANGE" 0.913 0.603 -4.892 0.226 0.0272 0.000503 0.167 123.061 234093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"664" "Julia Michaels" "Just One Look" "Just One Look" 0.684 0.739 -5.943 0.0363 0.0145 0.0213 0.119 114.996 158369 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"665" "The Bobby Fuller Four" "I Fought the Law - Single Version" "Never To Be Forgotten - The Mustang Years" 0.593 0.804 -5.497 0.0319 0.105 2.22e-06 0.047 148.959 138360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"666" "Gunnel Boek" "Perspectives" "Perspectives" 0.476 0.109 -22.904 0.0327 0.983 0.904 0.101 106.976 186000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"667" "Broken Bells" "Good Luck" "Good Luck" 0.622 0.512 -7.44 0.0383 0.352 0.405 0.109 169.983 206813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"668" "Nina June" "Keep on Moving" "Keep on Moving" 0.584 0.523 -8.176 0.0273 0.286 0.0384 0.241 94.974 222873 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"669" "Satellite Stories" "Campfire - Acoustic Version" "Pine Trails (Acoustic Versions)" 0.581 0.176 -22.848 0.0426 0.889 0.000598 0.123 145.293 207469 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"670" "Kurt Elling" "Can't Make It with Your Brain" "Can't Make It with Your Brain" 0.669 0.872 -7.786 0.0698 0.442 0.000195 0.103 110.916 349291 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"671" "David Sylvian" "Snow White In Appalachia" "A Victim Of Stars 1982-2012" 0.342 0.092 -18.182 0.0423 0.886 8.69e-05 0.106 90.509 366266 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"672" "Dustin O'Halloran" "Layers Expanding Time" "Lion (Original Motion Picture Soundtrack)" 0.115 0.109 -20.272 0.0436 0.932 0.868 0.104 69.615 331133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"673" "Natural Child" "Out In The Country" "Dancin' With Wolves" 0.425 0.515 -10.005 0.037 0.682 0.0534 0.105 93.174 174587 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"674" "Of Monsters and Men" "This Happiness" "Tíu" 0.59 0.456 -9.989 0.0299 0.281 0.000519 0.0601 116.97 233120 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"675" "Ami Warning" "Fairytales" "fairytales" 0.753 0.072 -22.315 0.0727 0.922 0.00378 0.117 132.014 167273 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"676" "Simply Red" "Positively 4th Street" "Home" 0.569 0.702 -5.11 0.0307 0.382 1.47e-05 0.0777 109.119 273160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"677" "Shake Shake Go" "Take Me to the Sea" "Shake Shake Go" 0.767 0.638 -6.417 0.0338 0.0016 0.000536 0.235 126.054 197129 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"678" "George Ezra" "Shotgun" "Staying at Tamara's" 0.673 0.735 -4.733 0.0457 0.286 0 0.242 115.744 201287 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"679" "Le Tigre" "Deceptacon" "Le Tigre" 0.603 0.864 -3.341 0.0668 0.055 0.00493 0.0986 160.488 184627 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"680" "LIZOT" "Daddy Cool - Club VIP Mix" "Daddy Cool (Club VIP Mix)" 0.821 0.868 -6.31 0.0813 0.003 0.86 0.0537 123.985 170323 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"681" "SIAMES" "Used to Be" "Bounce Into The Music" 0.624 0.765 -6.705 0.029 0.000742 0.00396 0.271 106.977 228763 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"682" "Kate Bollinger" "I Don't Wanna Lose" "I Don't Wanna Lose" 0.494 0.463 -10.764 0.0583 0.34 0.00218 0.209 142.142 200828 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"683" "Bon Iver" "Second Nature" "Don't Look Up (Soundtrack from the Netflix Film)" 0.417 0.517 -9.946 0.0355 0.732 0.00349 0.0992 126.877 242150 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"684" "Paul Moretti Trio" "Someone To Watch Over Me" "Cheek To Cheek" 0.513 0.0658 -21.082 0.0409 0.949 0.877 0.117 121.391 223143 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"685" "Benjamin Amaru" "You Don't Know - slowed + reverb" "You Don't Know (slowed + reverb)" 0.632 0.377 -12.462 0.0638 0.833 0.00308 0.52 147.119 199184 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"686" "Al Green" "Take Me to the River" "Al Green Explores Your Mind" 0.786 0.418 -11.115 0.0432 0.218 0.000158 0.134 119.101 225373 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"687" "Paco Ruiz" "Almonte" "Almonte" 0.329 0.0229 -26.391 0.0388 0.984 0.91 0.118 107.115 151708 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"688" "Catfish and the Bottlemen" "Hourglass" "The Balcony" 0.652 0.302 -9.949 0.0328 0.389 0.000251 0.153 129.902 138154 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"689" "The Pigeon Detectives" "Take Her Back" "Wait for Me" 0.488 0.962 -1.589 0.0338 0.00202 2.03e-06 0.261 109.07 197133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"690" "Parov Stelar" "Booty Swing" "The Princess, Pt. Two" 0.85 0.669 -5.46 0.047 0.26 0.274 0.103 112.966 197507 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"691" "Joan As Police Woman" "The Magic" "The Deep Field" 0.641 0.807 -6.25 0.0768 0.0978 0.193 0.129 154.638 249533 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"692" "WILLOW" "Wait a Minute!" "ARDIPITHECUS" 0.764 0.705 -5.279 0.0278 0.0371 1.94e-05 0.0943 101.003 196520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"693" "Provinz" "Du wirst schon sehen" "Wir bauten uns Amerika" 0.657 0.734 -5.881 0.135 0.143 0 0.205 81.052 204503 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"694" "Raphael" "Mi gran noche" "Digan Lo Que Digan: Banda Sonora Original De La Pe" 0.645 0.653 -7.183 0.0629 0.579 0 0.0726 138.498 180867 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"695" "DANGERDOOM" "El Chupa Nibre" "THE MOUSE & THE MASK" 0.67 0.764 -6.652 0.357 0.0391 1.84e-05 0.0317 104.449 156253 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"696" "No BS! Brass" "Ain't Even Gonna Call Ya" "Alive in Richmond!" 0.528 0.819 -5.102 0.079 0.64 0.274 0.139 90.29 293669 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"697" "Mogli" "Interlude I (The End)" "Ravage" 0.246 0.195 -20.052 0.0399 0.976 0.847 0.104 118.726 74562 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"698" "The Kingston Trio" "M.T.A." "Kingston Trio At Large" 0.713 0.548 -8.807 0.0455 0.261 0 0.197 144.623 193387 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"699" "Thomas Wander" "The Only Family I Got" "Independence Day: Resurgence (Original Motion Picture Soundtrack)" 0.218 0.00808 -35.692 0.0458 0.986 0.947 0.0716 54.861 61440 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"700" "Noah Kahan" "Passenger" "Hurt Somebody" 0.696 0.675 -6.769 0.0725 0.631 6.23e-06 0.114 126.901 238066 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"701" "Paul Simon" "You Can Call Me Al" "Graceland (25th Anniversary Deluxe Edition)" 0.776 0.763 -8.124 0.0534 0.182 0.00647 0.077 128.433 280000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"702" "The Fisherman’s Friends" "(What Shall We Do With The) Drunken Sailor" "Keep Hauling (Music From The Movie)" 0.629 0.401 -8.645 0.0285 0.894 0 0.278 105.942 169427 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"703" "Jonas Blue" "Rise - Retrovision Remix" "Rise (Remixes, Pt. 2)" 0.721 0.745 -4.31 0.127 0.15 0 0.334 125.088 190183 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"704" "Sean Koch" "Subtle Affection" "Subtle Affection" 0.787 0.826 -6.866 0.0352 0.2 0.00563 0.114 122.017 200656 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"705" "Villagers" "Courage" "Darling Arithmetic" 0.74 0.299 -11.831 0.0347 0.77 0.138 0.234 105 287413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"706" "Seafret" "Most of Us Are Strangers" "Most of Us Are Strangers" 0.508 0.448 -7.03 0.0362 0.777 0 0.0461 79.28 222587 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"707" "Dizzy Gillespie" "On The Sunny Side Of The Street" "Dizzy 100" 0.671 0.352 -11.511 0.0556 0.532 0.000141 0.11 120.235 342891 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"708" "ANTEMASQUE" "Drown All Your Witches" "Antemasque (Deluxe Edition)" 0.507 0.896 -4.461 0.0354 0.0116 2.39e-06 0.245 91.969 211587 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"709" "Aukai" "Winter Apples" "Entretanto" 0.733 0.489 -14.21 0.0364 0.752 0.749 0.0569 150.028 197000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"710" "Chinese Man" "Run Run Run (Scatter) [Chill Bump Remix]" "Sho-Bro" 0.6 0.581 -8.074 0.513 0.169 4.36e-06 0.276 89.942 220821 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"711" "Tors" "Love Me Back" "Love Me Back (Fayahh Beat)" 0.602 0.612 -8.115 0.0465 0.0325 0.00943 0.147 95.161 193627 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"712" "Jake Bugg" "Lightning Bolt" "Jake Bugg" 0.551 0.839 -4.555 0.0787 0.0818 0 0.151 116.051 144013 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"713" "Mayor Deseo" "Beta Sinus 201 Hz - L 230 Hz" "Beta Sinus 191 Hz - L 220 Hz" 0.147 0.0561 -30.137 0.0458 0.939 0.414 0.112 142.787 137462 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"714" "Far East Movement" "Like A G6" "Free Wired" 0.435 0.837 -8.126 0.449 0.00676 0 0.117 124.913 216893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"715" "Frightened Rabbit" "Keep Yourself Warm" "The Midnight Organ Fight" 0.46 0.571 -5.484 0.0297 0.00342 0.00136 0.169 114.09 333027 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"716" "L'aupaire" "(Sittin' On) The Dock Of The Bay" "The Dock of the Bay (Mono)" 0.769 0.367 -11.226 0.0312 0.684 1.62e-05 0.081 103.621 163756 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"717" "Pieta Brown" "Is / Was" "Is / Was" 0.501 0.505 -8.723 0.0364 0.622 0.065 0.0991 120.84 156220 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"718" "The Lumineers" "WHERE WE ARE" "BRIGHTSIDE" 0.573 0.507 -8.084 0.0342 0.759 1.37e-06 0.377 123.183 172800 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"719" "Tamino" "Habibi" "Amir" 0.318 0.3 -9.227 0.0287 0.687 0.113 0.111 121.872 307267 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"720" "Various Artists" "The Gambler - Rerecorded" "Country Classics" 0.763 0.438 -11.216 0.0404 0.343 0 0.0965 89.993 209800 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"721" "Miso" "Alone" "Alone With You" 0.768 0.374 -12.49 0.723 0.288 1.67e-06 0.111 75.503 195200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"722" "Buddy Rich Big Band" "The Beat Goes On - Live At Chez Club, Hollywood/1966/Remix" "Big Swing Face (Live)" 0.405 0.888 -7.208 0.53 0.132 0.0015 0.673 158.124 340573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"723" "WALK THE MOON" "Giants" "Without Fear" 0.572 0.833 -5.291 0.0754 0.014 5.77e-05 0.129 158.104 177173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"724" "blink-182" "Always" "blink-182" 0.463 0.925 -5.74 0.0747 0.0106 0.027 0.189 158.337 251866 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"725" "Rise Against" "Drones" "Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness" 0.516 0.993 -3.722 0.0431 0.000138 3.65e-06 0.0578 104.702 181600 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"726" "Devendra Banhart" "Fancy Man" "Ape in Pink Marble" 0.905 0.437 -7.343 0.177 0.583 0.0492 0.144 110.071 179253 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"727" "Young Grove" "Beta Sinus 150 Hz - 158 Hz" "Young Grove" 0.149 0.0156 -35.287 0.0576 0.952 0.626 0.172 138.66 220682 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"728" "SYML" "Meant to Stay Hid" "Meant to Stay Hid" 0.599 0.177 -14.097 0.032 0.895 0.138 0.11 127.982 223437 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"729" "Angus & Julia Stone" "Grizzly Bear" "Angus & Julia Stone (Deluxe)" 0.902 0.438 -8.63 0.0493 0.503 0.135 0.101 118.048 248520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"730" "Mumford & Sons" "Hopeless Wanderer" "Babel (Deluxe Version)" 0.304 0.572 -7.571 0.0343 0.0137 0.005 0.107 80.85 307853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"731" "Fiona Apple" "Frosty the Snowman" "I'll Be Home For Christmas" 0.764 0.162 -10.16 0.0488 0.811 0 0.121 148.142 130520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"732" "Theta Time" "Mantra - Alpha Waves" "Mantra - Alpha Waves" 0.145 0.0469 -31.497 0.0429 0.915 0.765 0.094 139.441 205671 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"733" "Paul McCartney" "Long Tailed Winter Bird" "McCartney III" 0.62 0.815 -6.882 0.0463 0.194 0.773 0.48 162.118 316592 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"734" "Chilly Gonzales" "Damage In Your Heart Chilly Gonzales version" "Other People's Pieces" 0.53 0.299 -13.062 0.0358 0.948 0.976 0.0675 121.997 210394 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"735" "Hugo Barriol" "Our Kingdom" "Yellow" 0.478 0.355 -11.824 0.0343 0.645 0.00292 0.0909 103.683 186973 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"736" "Band of Horses" "No One's Gonna Love You" "Cease To Begin" 0.313 0.894 -3.579 0.0294 0.122 0 0.0925 149.044 217333 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"737" "Sexy Girls" "Krawn the Destroyer" "Satan's Hands" 0.641 0.639 -12.974 0.0312 0.466 0.0167 0.0757 125.067 358373 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"738" "Hot Chocolate" "You Sexy Thing - Single Version" "Their Greatest Hits" 0.788 0.728 -5.912 0.0571 0.533 0.00165 0.218 105.881 242906 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"739" "Faber" "Tausendfrankenlang" "Alles Gute" 0.329 0.584 -7.563 0.0436 0.17 1.18e-05 0.12 149.367 228173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"740" "Ike Turner & The Kings Of Rhythm" "Getting Nasty" "Expansions" 0.622 0.551 -8.458 0.0388 0.135 0.814 0.0804 95.124 177953 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"741" "Sundara Karma" "Sweet Intentions" "Ulfilas' Alphabet" 0.633 0.65 -8.229 0.0465 0.119 0.000216 0.111 100.024 216173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"742" "Bahamas" "All The Time" "Bahamas Is Afie" 0.711 0.464 -4.816 0.0488 0.648 0.00373 0.0846 127.274 234973 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"743" "Colm R. McGuinness" "Hoist the Colours" "Hoist the Colours" 0.233 0.32 -12.186 0.0378 0.797 0 0.168 91.47 122700 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"744" "Gregory Alan Isakov" "If I Go, I'm Goin" "This Empty Northern Hemisphere" 0.509 0.0648 -17.293 0.0339 0.778 0.0282 0.11 113.742 267160 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"745" "Ayla Nereo" "Hum" "DAMN." 0.908 0.621 -6.638 0.102 0.000282 5.39e-05 0.0958 150.011 177000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"746" "Daikaiju" "Farewell to Monster Island" "Daikaiju" 0.479 0.684 -6.756 0.038 0.0986 0.833 0.0962 79.303 506360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"747" "Howard Shore" "The Battle of the Pelennor Fields" "The Lord of the Rings - The Return of the King - The Complete Recordings (Limited Edition)" 0.175 0.399 -14.865 0.0501 0.473 0.959 0.0799 120.942 250040 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"748" "Erik Satie" "Messe des pauvres (Arr. A. Simonetto for Piano): II. Dixit Domine" "Satie: Esoteric Works, Vol. 2 – Vexations, Uspud, Messe des pauvres" 0.559 0.00133 -43.009 0.33 0.978 0.824 0.0558 70.159 73400 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"749" "Noah And The Whale" "Life Is Life" "Last Night On Earth" 0.6 0.712 -6.184 0.0429 0.17 3.17e-06 0.1 171.985 216520 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"750" "Baths" "Aminals" "Cerulean" 0.743 0.699 -6.438 0.147 0.0196 0.73 0.254 95.001 198452 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"751" "Vargas & Lagola" "Ain't Leaving Now" "Ain't Leaving Now" 0.453 0.81 -5.555 0.0352 0.00759 0 0.117 145.297 231067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"752" "Gabbie Hanna" "Honestly - Encore" "Honestly (Encore)" 0.675 0.701 -5.045 0.494 0.338 0.000991 0.116 174.638 95000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"753" "Gavin James" "The Book of Love" "For You" 0.665 0.315 -15.247 0.0273 0.748 0.00538 0.102 104.953 193111 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"754" "Queen" "Cool Cat - Remastered 2011" "Hot Space (2011 Remaster)" 0.818 0.4 -9.927 0.11 0.302 0.00241 0.18 73.76 209107 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"755" "Art Blakey" "Moanin' (Alternate Take) - Remastered" "Moanin' (Expanded Edition)" 0.658 0.479 -8.464 0.0437 0.77 0.0308 0.137 130.844 559147 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"756" "The Neighbourhood" "Afraid" "I Love You." 0.349 0.698 -5.676 0.0689 0.00704 0.323 0.336 167.653 251187 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"757" "Mark Ronson" "Nothing Breaks Like a Heart (feat. Miley Cyrus)" "Nothing Breaks Like a Heart (feat. Miley Cyrus)" 0.601 0.794 -5.844 0.0671 0.00987 1.36e-06 0.388 114.066 217467 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"758" "Noisettes" "Never Forget You" "Wild Young Hearts" 0.569 0.692 -4.683 0.0323 0.0167 3.78e-05 0.126 141.632 192213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"759" "Chinese Man" "Eight y cinco" "Groove Sessions" 0.748 0.549 -8.412 0.0788 0.174 0.294 0.111 169.996 233880 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"760" "Josh Rouse" "Love Vibration" "1972" 0.655 0.445 -9.141 0.0286 0.276 0.0563 0.0967 134.028 291933 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"761" "Scary Pockets" "Sweet Child O' Mine" "Funk Ninja" 0.709 0.853 -9.024 0.0494 0.0993 0.000427 0.0797 138.38 169343 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"762" "Harry Chapin" "Cat's in the Cradle" "Verities & Balderdash" 0.489 0.578 -9.766 0.0418 0.234 0 0.123 78.111 222951 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"763" "Seabear" "Arms" "O My Heart" 0.687 0.646 -3.841 0.039 0.0973 0.000593 0.161 139.978 216667 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"764" "The Fisherman’s Friends" "South Australia" "Keep Hauling (Music From The Movie)" 0.666 0.588 -7.13 0.039 0.861 0 0.0632 99.802 131080 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"765" "Kishi Bashi" "Never Ending Dream" "Stillwater: Vol. 1 (Apple TV+ Original Series Soundtrack)" 0.694 0.795 -5.413 0.0343 0.435 0.0103 0.363 109.964 217107 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"766" "Dove Cameron" "Rotten to the Core" "Descendants (Original TV Movie Soundtrack)" 0.693 0.808 -6.231 0.093 0.0506 1.18e-06 0.578 127.945 162067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"767" "VOILÀ" "Figure You Out" "Long Story Short" 0.631 0.491 -8.141 0.0354 0.508 3.18e-05 0.177 94.912 163436 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"768" "Lily Allen" "Smile" "Alright, Still (Deluxe)" 0.632 0.639 -5.938 0.0259 0.00143 0 0.221 95.506 196893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"769" "The Young'uns" "Carrying the Coffin" "The Ballad of Johnny Longstaff" 0.781 0.297 -10.632 0.461 0.905 0 0.194 118.82 186787 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"770" "Focus Chamber" "Binaural Gamma Sinus 120 Hz - L 170 Hz - R" "Binaural Gamma Sinus 120 Hz - L 170 Hz - R" 0.207 0.0304 -29.06 0.0441 0.831 0.705 0.112 67.664 135233 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"771" "Scary Pockets" "Hello Hello Hello" "Hello Hello Hello" 0.707 0.641 -7.718 0.0955 0.136 0.00465 0.227 92.943 185262 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"772" "Domenico Cattaneo" "La gatta frettolosa fece i gattini ciechi" "La gatta frettolosa fece i gattini ciechi" 0.325 0.0736 -25.167 0.0524 0.995 0.957 0.106 73.513 107875 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"773" "Culture Club" "Karma Chameleon - Remastered 2002" "Colour By Numbers (Remastered / Expanded Edition)" 0.668 0.73 -7.182 0.0366 0.225 0 0.188 92.049 252773 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"774" "Papooz" "Ann Wants to Dance" "Green Juice" 0.742 0.436 -10.992 0.027 0.672 0.0292 0.183 100.859 210787 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"775" "The Kid LAROI" "STAY (with Justin Bieber)" "STAY (with Justin Bieber)" 0.591 0.764 -5.484 0.0483 0.0383 0 0.103 169.928 141805 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"776" "The Boomtown Rats" "I Don't Like Mondays" "The Fine Art Of Surfacing" 0.464 0.46 -6.874 0.0393 0.717 0 0.151 143.603 259093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"777" "Rainbow Kitten Surprise" "Devil Like Me" "Seven + Mary" 0.679 0.63 -6.83 0.158 0.758 7.06e-05 0.111 123.082 188280 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"778" "KONGOS" "Come with Me Now" "Lunatic" 0.654 0.726 -3.803 0.0401 0.0311 6.35e-05 0.0618 103.987 211960 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"779" "Travis Scott" "Goosebumps - Remix" "Goosebumps (Remix)" 0.841 0.593 -7.846 0.0379 0.418 0 0.124 124.917 162803 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"780" "Luca Wilding" "Wales" "Wales" 0.445 0.256 -11.03 0.0292 0.915 0.00237 0.112 111.58 241103 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"781" "The Mowgli's" "San Francisco" "Waiting For The Dawn" 0.307 0.847 -4.215 0.0551 0.0215 0 0.0783 93.072 173093 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"782" "Avi Kaplan" "Aberdeen" "Aberdeen" 0.517 0.569 -10.001 0.034 0.298 0.0109 0.108 84.968 208011 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"783" "Billie Eilish" "my future" "my future" 0.444 0.309 -10.956 0.062 0.795 0.132 0.352 104.745 208155 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"784" "Marc Streitenfeld" "Sherwood Forest" "Robin Hood (Original Motion Picture Soundtrack)" 0.274 0.127 -21.024 0.033 0.924 0.949 0.123 91.336 139547 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"785" "Eric Clapton" "It's in the Way That You Use It - 1999 Remaster" "Clapton Chronicles: The Best of Eric Clapton" 0.534 0.925 -5.004 0.0392 0.108 0.0303 0.0634 200.75 251453 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"786" "VVAVES" "5 Of Your Exes" "5 Of Your Exes" 0.913 0.355 -8.847 0.142 0.292 0 0.0991 118.064 138404 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"787" "Sipper" "Dance In Room Song" "Pink Songs" 0.583 0.82 -6.774 0.0622 0.0293 0.00119 0.608 90.611 171243 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"788" "Edward Elgar" "Chanson de Matin, Op. 15, No. 2" "Jubilee" 0.163 0.174 -18.525 0.0463 0.972 0.904 0.597 68.736 197933 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"789" "Brave the Sea" "Sláinte" "The Kraken" 0.593 0.651 -10.269 0.761 0.861 0 0.955 78.744 44419 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"790" "L'aupaire" "Renegades" "VHS" 0.526 0.862 -6.003 0.0905 0.0144 0.0597 0.229 90.052 195200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"791" "Benny Sings" "Sunny Afternoon" "Music" 0.838 0.408 -11.721 0.0727 0.104 0.000593 0.0793 101.767 171756 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"792" "Fleetwood Mac" "Go Your Own Way" "Rumours" 0.597 0.812 -12.062 0.0315 0.0219 0.00106 0.102 135.68 218400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"793" "The Secret Sisters" "He's Fine" "You Don't Own Me Anymore" 0.557 0.616 -8.938 0.0387 0.559 8.04e-05 0.0812 86.802 223400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"794" "Crystal Lake" "Follow Me" "Follow Me" 0.673 0.729 -4.879 0.0496 0.083 0 0.1 122.023 169672 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"795" "Linda Diaz" "Magic" "Magic In The Hamptons (feat. Lil Yachty)" 0.769 0.479 -5.339 0.0385 0.66 0 0.0914 96.051 164640 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"796" "Roy Ayers Ubiquity" "Everybody Loves The Sunshine" "Everybody Loves The Sunshine (Reissue)" 0.52 0.571 -10.326 0.036 0.168 5.14e-06 0.17 161.051 239667 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"797" "Emma Hoffman" "Sehnsucht" "Sehnsucht" 0.473 0.0675 -23.951 0.0487 0.991 0.955 0.101 63.229 131572 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"798" "Dan Romer" "Let's Do This Damn Thing" "Finders Keepers" 0.789 0.769 -8.139 0.222 0.597 0.262 0.0421 105.001 62067 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"799" "Ten Tonnes" "Lucy" "Ten Tonnes" 0.534 0.737 -3.925 0.0369 0.0104 1.49e-06 0.0678 116.738 165893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"800" "Aukai" "Zora" "Game Trails" 0.503 0.472 -14.823 0.0341 0.775 0.759 0.0891 114.044 232400 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"801" "St. Paul de Vence" "Pink Wine" "St. Paul de Vence" 0.566 0.258 -8.645 0.0498 0.739 0 0.114 118.381 221573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"802" "David Bowie" "Changes - 2015 Remaster" "Hunky Dory (2015 Remaster)" 0.559 0.308 -11.75 0.0376 0.505 0 0.109 113.633 217746 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"803" "Aron Ottignon" "Waterfalls" "Crazysexycool" 0.769 0.505 -7.345 0.0829 0.311 7.49e-05 0.0777 171.804 279507 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"804" "Rikas" "Overthinking" "Overthinking" 0.603 0.701 -4.419 0.0326 0.0517 0 0.204 141.989 174080 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"805" "Clara Luzia" "Queen Of The Wolves" "The Ground Below" 0.805 0.658 -9.241 0.0314 0.334 0.00942 0.358 120.037 151760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"806" "Pearl & The Puppets" "Because I Do" "Because I Do" 0.509 0.546 -7.962 0.0287 0.0438 2.8e-06 0.1 86.279 193186 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"807" "Zelooperz" "Easter Sunday" "Dyn-O-Mite" 0.38 0.723 -9.608 0.34 0.0774 2.52e-06 0.92 143.285 122737 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"808" "Tom Stannard" "Forever & Always" "Forever & Always" 0.48 0.12 -26.237 0.0406 0.994 0.944 0.108 77.969 126924 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"809" "Rolf Zuckowski" "Leise rieselt der Schnee" "In der Weihnachtsbäckerei" 0.291 0.178 -13.544 0.03 0.774 0.00055 0.0923 182.345 132093 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"810" "Norah Jones" "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC" "Spotify Singles - Holiday" 0.475 0.068 -20.032 0.0319 0.893 0.00216 0.105 95.165 192421 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"811" "Dua Lipa" "Levitating (feat. DaBaby)" "Future Nostalgia" 0.702 0.825 -3.787 0.0601 0.00883 0 0.0674 102.977 203064 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"812" "Joey Pecoraro" "Tired Boy" "Tired Boy" 0.661 0.391 -4.24 0.0413 0.616 0.856 0.0878 82.819 255049 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"813" "Peach Pit" "Everything About You" "From 2 to 3" 0.599 0.5 -8.226 0.0592 0.289 0.0215 0.159 102.23 198912 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"814" "Freedom Fry" "Mr. Nobody" "Mr. Nobody" 0.703 0.647 -7.529 0.0373 0.217 0 0.0593 89.008 187500 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"815" "Noah Kahan" "Godlight" "I Was / I Am" 0.375 0.709 -6.34 0.0576 0.00506 0 0.163 169.1 247051 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"816" "New Order" "Temptation - 7\" Version; 2015 Remaster" "Singles (2016 Remaster)" 0.775 0.743 -8.794 0.0306 0.000868 0.0721 0.177 125.612 324413 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"817" "Noah And The Whale" "There Will Come A Time" "Heart Of Nowhere" 0.673 0.728 -5.06 0.0319 0.0252 2.48e-05 0.0594 139.979 217813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"818" "Reel Big Fish" "The Promise" "Ten" 0.575 0.918 -3.881 0.0585 0.008 0 0.0394 90.036 224111 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"819" "Guy Garvey" "Open The Door" "Courting The Squall" 0.618 0.82 -6.578 0.0532 0.286 0.00391 0.675 126.296 296040 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"820" "Razz" "1969 - Conrad" "1969 - Conrad" 0.569 0.861 -6.818 0.0461 0.0134 0.0011 0.201 158.892 158760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"821" "Ben Mazué" "10 Ans de nous" "La Femme Idéale" 0.535 0.364 -8.828 0.0353 0.885 1.76e-05 0.102 99.155 207440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"822" "Plàsi" "Who Are We" "Now & Then" 0.563 0.31 -9.484 0.0343 0.851 2.4e-05 0.102 72.988 273438 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"823" "Luna Waterfall" "Alpha Thoughts 107Hz - 114Hz" "Flow State" 0.0639 0.039 -29.624 0.0453 0.984 0.947 0.0952 48.243 275752 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"824" "Elias Braun" "As You Close Your Eyes" "As You Close Your Eyes" 0.448 0.0708 -25.966 0.0301 0.993 0.883 0.0961 139.035 126794 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"825" "Joey Dosik" "Running Away" "Game Winner - EP (Deluxe Edition)" 0.516 0.591 -8.559 0.099 0.814 0.00118 0.108 75.377 271368 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"826" "Of Monsters and Men" "King And Lionheart" "My Head Is An Animal" 0.52 0.655 -6.519 0.0394 0.105 0.00384 0.124 126.593 273853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"827" "The 502s" "Because We Had To" "Because We Had To" 0.61 0.667 -6.703 0.0491 0.149 0 0.129 131.852 209505 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"828" "Naked Giants" "Slow Dance II" "SLUFF" 0.471 0.398 -7.853 0.0483 0.00676 0.0422 0.0868 123.242 295453 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"829" "Moonchild" "The List" "Voyager" 0.442 0.345 -12.269 0.277 0.866 0.0366 0.251 82.824 305760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"830" "The Strumbellas" "Wars" "The Way Life Goes - 10s Rap" 0.925 0.542 -5.634 0.225 0.05 5.44e-06 0.0916 97.964 187267 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"831" "Junip" "Line of Fire" "Junip" 0.485 0.744 -8.049 0.0409 0.464 0.553 0.122 90.292 339293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"832" "From Overseas" "Looking at the World Through a Window" "Looking at the World Through a Window" 0.142 0.112 -20.806 0.0407 0.906 0.967 0.0751 101.366 385000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"833" "Jack Harlow" "Tyler Herro" "Thats What They All Say" 0.792 0.793 -6.185 0.0841 0.0872 0 0.22 123.031 156578 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"834" "The Fisherman’s Friends" "Shanty Man" "Home From The Sea" 0.532 0.132 -19.486 0.261 0.957 0 0.0832 176.025 207907 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"835" "The Young'uns" "The Great Tomorrow" "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins" 0.544 0.897 -6.056 0.0471 0.241 0 0.13 157.17 215133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"836" "Jónsi" "Grow Till Tall" "Go" 0.0618 0.404 -8.721 0.0351 0.434 0.00184 0.604 64.027 320773 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"837" "Oracle Sisters" "Asc. Scorpio" "Asc. Scorpio" 0.762 0.6 -6.636 0.0431 0.0717 0.00703 0.0995 80.204 166601 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"838" "A Brief History of Mathematics" "Evariste Galois" "Música per als Desemparats" 0.625 0.819 -10.032 0.0598 0.0536 0.603 0.118 132.051 67273 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"839" "Sean Koch" "Away We Grow" "Away We Grow" 0.508 0.595 -8.611 0.178 0.319 0 0.0877 93.332 170918 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"840" "Justin Bieber" "Love Yourself" "Purpose (Deluxe)" 0.609 0.378 -9.828 0.438 0.835 0 0.28 100.418 233720 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"841" "Cassia" "Do Right" "Don't Make a Scene" 0.62 0.698 -7.098 0.0892 0.285 5.56e-06 0.283 91.427 180824 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"842" "Leaf Dog" "Some People Say" "From a Scarecrow's Perspective" 0.667 0.776 -4.265 0.182 0.0765 3.89e-06 0.152 83.148 210546 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"843" "Dale Brenan" "Morning Skyline" "Morning Skyline" 0.443 0.116 -25.785 0.0429 0.982 0.861 0.1 105.753 149959 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"844" "BANNERS" "Half Light" "Half Light" 0.532 0.392 -7.502 0.0289 0.816 0 0.122 151.879 185947 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"845" "Moondog" "Bird's Lament" "Sax Pax For A Sax" 0.594 0.291 -11.158 0.0429 0.763 0.879 0.106 63.384 123893 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"846" "Sjowgren" "Now & Then" "Now & Then" 0.543 0.549 -6.497 0.0306 0.149 0.082 0.114 80.079 205893 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"847" "Binaural Beats Deep Sleep" "3.2 Hz Delta Brain Waves" "Binaural Beats: Sleep Alpha Music" 0.167 0.000793 -37.844 0.0634 0.989 0.915 0.114 119.158 115000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"848" "Drone" "Total - Alpha Sinus 65,4hz - 68,5 hz" "Healing Alpha Sinus" 0.551 0.00277 -37.773 0.133 0.992 0.973 0.113 140.189 232823 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"849" "Cotton Jones" "Gotta Cheer Up" "Paranoid Cocoon" 0.523 0.631 -7.496 0.0262 0.398 0.000145 0.123 105.135 192613 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"850" "ABBA" "SOS" "ABBA Gold" 0.393 0.719 -4.773 0.0279 0.0629 0.00432 0.219 124.353 201360 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"851" "Novo Amor" "From Gold" "Woodgate, NY" 0.392 0.433 -13.313 0.0364 0.92 0.646 0.0937 100.253 214336 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"852" "Karmawin" "Dusty Memories" "Crossway" 0.723 0.399 -12.807 0.0341 0.23 0.865 0.0949 92.979 228000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"853" "weird inside" "Cycles" "Cycles" 0.312 0.0129 -29.504 0.0431 0.977 0.956 0.108 66.659 198490 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"854" "Sam Fender" "Long Way Off" "Seventeen Going Under (Deluxe)" 0.45 0.817 -4.13 0.0299 0.012 0 0.382 163.977 229693 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"855" "Frightened Rabbit" "Swim Until You Can't See Land" "The Winter of Mixed Drinks" 0.32 0.875 -4.321 0.0368 0.0438 0 0.116 80.852 259279 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"856" "The Suicide Machines" "Give" "Planet Pit (Deluxe Version)" 0.671 0.939 -3.206 0.161 0.191 0 0.298 129.024 252307 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"857" "Barenaked Ladies" "Odds Are - Acoustic" "Grinning Streak (Deluxe Version)" 0.62 0.831 -5.906 0.151 0.0435 6.47e-06 0.0917 97.133 185794 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"858" "Galactic" "Float up (feat. Anjelika Jelly Joseph)" "Float up (feat. Anjelika Jelly Joseph)" 0.797 0.864 -4.236 0.125 0.0876 2e-04 0.148 99.01 179285 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"859" "Stoop Kids" "Padiddle" "Already Out of Time" 0.548 0.902 -3.85 0.076 0.165 0.000198 0.358 91.101 237162 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"860" "CRX" "Broken Bones" "New Skin" 0.352 0.571 -3.801 0.0441 3e-05 0.00885 0.125 99.202 211373 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"861" "Broken Social Scene" "Anthems For A Seventeen Year-Old Girl" "You Forgot It In People" 0.466 0.446 -9.415 0.0322 0.229 0.0168 0.125 80.154 275693 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"862" "Cayucas" "Winter of '98" "Real Life" 0.75 0.709 -5.841 0.0391 0.31 2.21e-06 0.235 120.072 222613 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"863" "Brick + Mortar" "Brighter Than the Sun" "Dropped" 0.463 0.912 -5.008 0.24 0.0702 0.0153 0.136 165.07 196286 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"864" "Parcels" "IknowhowIfeel" "Parcels" 0.856 0.511 -10.413 0.0365 0.386 0.0334 0.0985 114.985 327399 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"865" "Heart" "Alone - Remastered" "Greatest Hits 1985-1995" 0.407 0.621 -6.371 0.0337 0.732 0.00192 0.0901 175.387 219293 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"866" "Gerry Cinnamon" "Sun Queen" "The Bonny" 0.652 0.799 -8.563 0.0288 0.36 0.000993 0.0806 127.997 247250 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"867" "Space Echo" "Rainbow Power" "Rare Function EP" 0.888 0.767 -7.508 0.0393 0.0041 0.469 0.0424 119.002 402616 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"868" "Rupert Holmes" "Escape (The Pina Colada Song)" "Partners In Crime" 0.836 0.509 -13.668 0.0548 0.467 4.1e-06 0.0436 138.714 276493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"869" "Brad Goodall" "Casa De Mel" "Casa De Mel" 0.716 0.485 -10.527 0.0374 0.356 0.216 0.0722 152.014 261414 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"870" "Tall Heights" "Flyin' Overhead" "Juniors" 0.492 0.695 -9.185 0.0323 0.132 7.12e-05 0.137 134.031 291239 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"871" "FINNEAS" "Let's Fall in Love for the Night (1964)" "Blood Harmony (Deluxe)" 0.422 0.15 -12.81 0.0636 0.984 8.25e-06 0.123 91.566 237033 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"872" "Ben Monteith" "Breaking" "Safe" 0.69 0.787 -6.288 0.0344 0.393 0 0.133 114 248420 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"873" "The Head And The Heart" "Let's Be Still" "Let's Be Still" 0.64 0.412 -10.728 0.0278 0.679 0.00357 0.106 131.245 268346 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"874" "Haley Heynderickx" "Oom Sha La La" "I Need to Start a Garden" 0.538 0.417 -9.176 0.0361 0.275 0 0.206 115.422 177340 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"875" "The Cars" "Drive" "Heartbeat City" 0.582 0.606 -9.961 0.0289 0.124 0.00139 0.151 111.441 234493 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"876" "anaïs" "Psychopath" "Psychopath" 0.785 0.427 -10.248 0.0476 0.188 5.06e-06 0.3 96.973 192990 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"877" "Billy Joel" "Uptown Girl" "An Innocent Man" 0.701 0.944 -2.986 0.0455 0.0755 0 0.601 128.993 197707 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"878" "The Mighty Mighty Bosstones" "M O V E" "When God Was Great" 0.606 0.867 -4.702 0.0381 0.0145 0 0.259 150.008 197482 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"879" "The Beach Boys" "Let's Go Away For A While - Mono / Remastered" "Pet Sounds (Original Mono & Stereo Mix Versions)" 0.279 0.31 -13.113 0.0253 0.254 0.806 0.101 87.872 141227 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"880" "Michael Giacchino" "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack" "Spider-Man: No Way Home (Original Motion Picture Soundtrack)" 0.291 0.0304 -16.878 0.0322 0.729 0.813 0.0735 60.185 91680 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"881" "Stavroz" "Robot Street Musicians" "Playground Party" 0.712 0.682 -9.317 0.0411 0.0661 0.622 0.223 119.985 482000 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"882" "First Aid Kit" "Fireworks - Recorded at Spotify Studios Stockholm" "Spotify Singles" 0.256 0.258 -9.137 0.0322 0.228 1.15e-05 0.172 173.688 277040 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"883" "George Benson" "The Greatest Love of All - 2015 GH Version" "The Ultimate Collection" 0.397 0.26 -14.448 0.0304 0.504 1.34e-06 0.105 113.573 212266 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"884" "The Riverside" "Hello Sunshine" "Western Stars" 0.546 0.438 -10.29 0.032 0.438 0.0443 0.192 120.022 234240 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"885" "Razz" "Talking For Hours" "Talking For Hours" 0.533 0.843 -7.583 0.0539 0.0438 0.00151 0.245 151.845 209482 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"886" "The Lumineers" "Big Parade" "The Lumineers (Deluxe Edition)" 0.816 0.629 -13.253 0.0487 0.401 0.00328 0.188 121.999 327733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"887" "Klô Pelgag" "J’arrive en retard" "Woah (Extrait du projet 93 Empire)" 0.935 0.777 -4.748 0.386 0.211 0 0.647 124.001 250595 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"888" "Cara Rose" "Ain't No Use" "Ain't No Use" 0.616 0.399 -9.675 0.0855 0.83 1.08e-06 0.132 93.442 168373 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"889" "Various Artists" "Rosyln" "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)" 0.329 0.277 -13.111 0.0302 0.971 0.024 0.0971 159.719 289560 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"890" "Sigur Rós" "Starálfur" "Ágætis byrjun" 0.184 0.423 -9.335 0.0399 0.496 0.901 0.201 137.74 406573 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"891" "Lionel Richie" "All Night Long (All Night)" "Can't Slow Down (Deluxe Edition)" 0.716 0.556 -13.917 0.0406 0.111 0.0076 0.0422 108.828 383440 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"892" "Kyo" "Ton mec" "Dans la peau" 0.754 0.511 -7.433 0.0383 0.0314 2.2e-05 0.238 104.003 180853 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"893" "Ayla Nereo" "O Come Ye - Nomadic Remix" "O Come Ye (Nomadic Remix)" 0.496 0.593 -7.734 0.0336 0.0497 0.0464 0.136 68.501 178000 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"894" "Simone Sommerland" "Lasst uns froh und munter sein" "Die 30 besten Weihnachts- Und Winterlieder" 0.893 0.645 -4.566 0.0429 0.306 0 0.116 148.033 101080 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"895" "Cory Wong" "Thriller" "Turbo" 0.709 0.744 -7.864 0.041 0.048 0.0142 0.035 98.315 290382 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"896" "Robin Carolan" "The Land of the Rus" "The Northman (Original Motion Picture Soundtrack)" 0.646 0.7 -11.016 0.0323 0.238 0.914 0.0977 87.031 102375 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"897" "Bill Withers" "Lovely Day" "Menagerie" 0.692 0.651 -8.267 0.0324 0.292 0.00241 0.105 97.923 254560 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"898" "Leah Kate" "10 Things I Hate About You" "10 Things I Hate About You" 0.544 0.786 -2.97 0.0501 0.00991 0 0.169 153.967 157138 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"899" "The 1975" "Sincerity Is Scary" "A Brief Inquiry Into Online Relationships" 0.664 0.524 -5.178 0.0283 0.0495 8.18e-06 0.075 91.027 225955 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"900" "2021 Wrapped" "Shouse" "Love Tonight (David Guetta Remix)" 0.621 0.989 -4.225 0.0434 0.015 0.357 0.184 126.002 158095 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"901" "Bonaparte" "Keine Zukunft III" "Keine Zukunft" 0.79 0.673 -8.351 0.0786 0.219 0.614 0.102 114.027 199769 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"902" "Theo Katzman" "Plain Jane Heroin" "Heartbreak Hits" 0.362 0.295 -10.208 0.118 0.697 8.42e-05 0.0976 88.29 275578 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"903" "Dolly Parton" "9 to 5" "9 To 5 And Odd Jobs" 0.554 0.783 -5.852 0.0457 0.416 1.54e-06 0.631 105.39 162466 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"904" "Jackson Sisters" "I Believe In Miracles - Extended Version" "The Collection" 0.673 0.827 -11.697 0.0485 0.071 0 0.44 107.781 292227 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"905" "Black Eyed Peas" "Meet Me Halfway" "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]" 0.798 0.629 -6.857 0.0735 0.00474 2.17e-05 0.324 130 284373 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"906" "Rihanna" "Umbrella" "Good Girl Gone Bad: Reloaded" 0.583 0.829 -4.603 0.134 0.00864 0 0.0426 174.028 275987 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"907" "Asia" "Heat Of The Moment" "Asia" 0.323 0.839 -7.35 0.0503 0.315 0.000313 0.348 136.232 227627 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"908" "The Avalanches" "Frontier Psychiatrist" "Since I Left You" 0.712 0.902 -7.426 0.355 0.114 0.000216 0.394 98.938 287693 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"909" "Simon & Garfunkel" "Bridge Over Troubled Water" "Bridge Over Troubled Water" 0.149 0.206 -13.888 0.0323 0.822 0.000649 0.115 79.764 293120 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"910" "for KING & COUNTRY" "Little Drummer Boy" "A Drummer Boy Christmas" 0.564 0.563 -7.976 0.0259 0.00379 0.0358 0.0763 104.031 288046 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"911" "Our Last Night" "HELL TO HAVE YOU" "HELL TO HAVE YOU" 0.412 0.92 -3.434 0.134 0.000997 0 0.558 135.031 173666 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"912" "Leon Bridges" "Like a Ship" "Like a Ship" 0.313 0.846 -7.109 0.139 0.0179 0.127 0.18 174.074 353507 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"913" "Blond" "Book" "After Walk Sleeping Dogs" 0.127 0.249 -14.778 0.0397 0.946 0.966 0.133 70.954 136562 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"914" "Dekker" "Back and Forth" "Back & Forth (Acoustic)" 0.563 0.308 -7.237 0.0285 0.859 0 0.0637 58.825 189185 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"915" "Cheap Trick" "I Want You To Want Me" "Cheap Trick/In Color/Heaven Tonight (3 Pak)" 0.806 0.462 -12.778 0.0298 0.78 0.0134 0.15 92.726 191226 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"916" "X Ambassadors" "Low Life" "VHS 2.0" 0.454 0.595 -4.844 0.0803 0.0426 0 0.11 139.502 280813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"917" "The Jolly Rogers" "One More Day" "Shanty Time" 0.594 0.67 -2.015 0.0434 0.787 0 0.0673 96.199 145933 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"918" "My Morning Jacket" "Only Memories Remain" "The Waterfall" 0.576 0.383 -10.095 0.0266 0.145 0.0938 0.167 132.497 429858 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"919" "Ampinomene" "Gamma Sinus 300 Hz - 350 Hz" "Ampinomene" 0.133 0.00395 -36.48 0.0647 0.995 0.94 0.113 143.252 187989 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"920" "Arcade Fire" "In the Backseat" "Funeral" 0.328 0.546 -10.031 0.032 0.457 0.0565 0.0725 169.975 380213 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"921" "Lee Fields & The Expressions" "Wish You Were Here (Instrumental)" "Faithful Man (Instrumentals)" 0.352 0.502 -8.477 0.0277 0.0187 0.883 0.185 177.921 251427 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"922" "Band of Horses" "The Funeral" "Everything All The Time" 0.318 0.76 -6.115 0.0435 0.016 0 0.102 122.414 322173 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"923" "Bronze Radio Return" "Shake, Shake, Shake" "Shake! Shake! Shake!" 0.727 0.678 -5.136 0.0626 0.0807 0.000564 0.115 119.957 163236 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"924" "Tom Misch" "Lost in Paris" "Geography" 0.788 0.711 -7.811 0.0597 0.364 2.07e-05 0.0838 104.149 194023 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"925" "Pierce Brothers" "Trip Lovers" "Atlas Shoulders" 0.606 0.711 -7.973 0.0413 0.0813 1.28e-05 0.292 118.082 196199 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"926" "Milky Chance" "La Noche De Anoche" "Trip Tape" 0.785 0.503 -10.472 0.0811 0.238 0.49 0.134 143.037 218939 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"927" "Circa Waves" "Fire That Burns - Acoustic" "Fire That Burns (Acoustic)" 0.348 0.496 -9.495 0.0373 0.831 0.00768 0.26 160.353 214760 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"928" "Liedfett" "W0 IST D1 SEELE" "W0 IST D1 SEELE" 0.764 0.47 -10.824 0.183 0.311 0 0.0896 96.065 173625 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"929" "Gloria Estefan" "Think About You Now" "Cuts Both Ways" 0.565 0.352 -14.378 0.038 0.45 0 0.0682 151.304 259133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"930" "Commodores" "Three Times A Lady" "All The Great Love Songs" 0.395 0.0784 -20.88 0.0301 0.885 0.000682 0.143 152.135 217533 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"931" "X Ambassadors" "Superpower" "VHS 2.0" 0.649 0.978 -3.535 0.0864 0.0108 0.184 0.269 105.466 192200 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"932" "Grabbitz" "Information Overload" "Information Overload" 0.674 0.609 -6.64 0.0445 0.0229 4.2e-05 0.106 99.939 221642 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"933" "Próxima Parada" "Better Now" "Big Seven" 0.657 0.316 -7.802 0.0325 0.753 0.0068 0.0977 74.349 262120 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"934" "Lana Del Rey" "If You Lie Down With Me" "Blue Banisters" 0.641 0.346 -9.508 0.036 0.913 3.99e-05 0.104 122.101 265187 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"935" "ViVii" "Savant" "ViVii" 0.479 0.744 -8.599 0.0465 0.597 0.396 0.0932 145.993 318133 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"936" "Electric Guest" "Awake" "Sigh No More" 0.264 0.466 -10.057 0.0364 0.0526 0.027 0.0894 86.25 255840 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"937" "Vance Joy" "Riptide" "Dream Your Life Away" 0.484 0.731 -6.694 0.0379 0.431 0 0.151 101.654 204280 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"938" "Brick + Mortar" "Locked In A Cage" "Bangs" 0.555 0.843 -5.383 0.0465 0.0454 0.017 0.347 82.974 196840 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"939" "Naeleck" "All My Heroes - Radio Edit" "All My Heroes" 0.609 0.668 -4.515 0.0308 0.287 0.0104 0.0974 82.975 228434 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"940" "Vulfpeck" "Conscious Club" "The Beautiful Game" 0.66 0.804 -7.618 0.117 0.202 0.0139 0.108 125.842 200177 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"941" "Harry Gregson-Williams" "Fairytale" "Shrek (Original Motion Picture Score)" 0.0877 0.163 -18.769 0.0362 0.722 0.501 0.463 83.13 86693 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"942" "Shakey Graves" "Late July - Audiotree Live Version" "Shakey Graves on Audiotree Live (2013)" 0.501 0.458 -10.32 0.0944 0.229 2.67e-06 0.19 125.637 363143 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"943" "MAMAMOO" "Dingga" "Dingga" 0.772 0.925 -2.788 0.108 0.0549 0 0.201 119.963 179080 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"944" "Plain White T's" "Hey There Delilah" "All That We Needed" 0.658 0.296 -10.584 0.0293 0.872 0 0.114 103.975 232813 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"945" "The 1975" "Lostmyhead" "I like it when you sleep, for you are so beautiful yet so unaware of it" 0.341 0.671 -7.481 0.0391 0.241 0.863 0.112 110.614 319407 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"946" "Klô Pelgag" "Insomnie" "Brol La Suite" 0.496 0.339 -10.512 0.0426 0.65 4.94e-05 0.0945 59.706 212733 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"947" "Barenaked Ladies" "Smile - Acoustic" "Grinning Streak (Deluxe Version)" 0.637 0.505 -7.332 0.0406 0.268 6.69e-06 0.11 80.383 155773 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"948" "Skillet" "Awake and Alive" "Awake" 0.434 0.939 -2.983 0.0593 0.0425 0 0.491 159.932 209493 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"949" "Imagine Dragons" "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"" "Origins (Deluxe)" 0.634 0.662 -7.543 0.0325 0.000479 0.00142 0.111 90.011 210933 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
