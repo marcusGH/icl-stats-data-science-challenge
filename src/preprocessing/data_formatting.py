@@ -5,13 +5,17 @@ import pandas as pd
 import os
 
 
-def get_preprocessed_data(data_dir, skip_preprocess=True):
+def get_preprocessed_data(data_dir, skip_preprocess=True, get_test=False):
     """
     :param data_dir: path to the input directory
     :return:
     """
-    train_path = os.path.join(data_dir, "raw", "train.csv")
-    preprocessed_path = os.path.join(data_dir, "derived", "train-preprocessed.csv")
+    if get_test:
+        name_prefix = "test"
+    else:
+        name_prefix = "train"
+    train_path = os.path.join(data_dir, "raw", f"{name_prefix}.csv")
+    preprocessed_path = os.path.join(data_dir, "derived", f"{name_prefix}-preprocessed.csv")
 
     if not skip_preprocess:
         with open(train_path, "rt") as fin:
