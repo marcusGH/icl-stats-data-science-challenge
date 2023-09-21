@@ -14,7 +14,7 @@ class ExampleDNN(nn.Module):
         self.feed_forward = nn.Sequential(
             nn.Linear(num_features, 64),
             nn.ReLU(),
-            nn.Linear(64, 1)
+            nn.Linear(64, 1),
             nn.Sigmoid()
         )
 
