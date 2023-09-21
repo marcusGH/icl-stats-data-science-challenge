@@ -5,7 +5,7 @@ import pandas as pd
 import os
 
 
-def get_preprocessed_data(data_dir):
+def get_preprocessed_data(data_dir, skip_preprocess=True):
     """
     :param data_dir: path to the input directory
     :return:
@@ -13,10 +13,11 @@ def get_preprocessed_data(data_dir):
     train_path = os.path.join(data_dir, "raw", "train.csv")
     preprocessed_path = os.path.join(data_dir, "derived", "train-preprocessed.csv")
 
-    with open(train_path, "rt") as fin:
-        with open(preprocessed_path, "wt") as fout:
-            for line in fin:
-                fout.write(line.replace('\\"', "'"))
+    if not skip_preprocess:
+        with open(train_path, "rt") as fin:
+            with open(preprocessed_path, "wt") as fout:
+                for line in fin:
+                    fout.write(line.replace('\\"', "'"))
 
     return pd.read_csv(preprocessed_path, sep=r'\s+', quotechar='"')
 
