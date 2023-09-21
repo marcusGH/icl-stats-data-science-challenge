@@ -22,7 +22,7 @@ target_intersection = ['AnB', 'AnC', 'AnD', 'BnC', 'BnD', 'CnD', 'AnBnC', 'AnBnD
 X = df.drop(columns=target_columns)
 X = X.drop(columns=['time_signature', 'length'])
 y = df.drop(columns=features_columns)
-y = df.drop(columns=target_intersection)
+y = y.drop(columns=target_intersection)
 
 # Features and labels
 features = X
